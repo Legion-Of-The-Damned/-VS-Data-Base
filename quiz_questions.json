@@ -1,12 +1,14 @@
 [
-    {
-        "question": "Сколько у Void Sentinel щупалец?",
-        "options": ["2", "4", "6", "8"],
-        "answer": 4
-    },
-    {
-        "question": "Какой элемент используется для вызова дуэли?",
-        "options": ["!дуэль", "/duel", "/вызов", "!pvp"],
-        "answer": 2
-    }
+  {
+    "category": "технологии",
+    "question": "Какой язык программирования используется для Void Sentinel?",
+    "options": ["Python", "Go", "Rust", "Perl"],
+    "answer": 1
+  },
+  {
+    "category": "лор",
+    "question": "Кто командует Легионом Проклятых?",
+    "options": ["Kraken_5491", "Abaddon", "Void Sentinel", "Никто"],
+    "answer": 3
+  }
 ]
