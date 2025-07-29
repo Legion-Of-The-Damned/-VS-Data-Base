@@ -11,4 +11,17 @@
     "options": ["Kraken_5491", "Abaddon", "Void Sentinel", "Никто"],
     "answer": 2
   }
+
+  {
+    "category": "технологии",
+    "question": "Какой язык программирования используется чаще всего для Discord-ботов?",
+    "options": ["Java", "Python", "C++", "Go"],
+    "answer": 2
+  },
+  {
+    "category": "технологии",
+    "question": "Что означает аббревиатура API?",
+    "options": ["Application Programming Interface", "Apple Product Integration", "Advanced Performance Index", "Automated Program Input"],
+    "answer": 1
+  }
 ]
