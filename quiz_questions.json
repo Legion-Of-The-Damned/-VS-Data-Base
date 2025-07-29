@@ -6,6 +6,12 @@
     "answer": 1
   },
   {
+    "category": "лор",
+    "question": "Кто командует Легионом Проклятых?",
+    "options": ["Kraken_5491", "Abaddon", "Void Sentinel", "Никто"],
+    "answer": 2
+  },  <--- добавь эту запятую
+  {
     "category": "технологии",
     "question": "Какой язык программирования используется чаще всего для Discord-ботов?",
     "options": ["Java", "Python", "C++", "Go"],
@@ -16,11 +22,5 @@
     "question": "Что означает аббревиатура API?",
     "options": ["Application Programming Interface", "Apple Product Integration", "Advanced Performance Index", "Automated Program Input"],
     "answer": 1
-  },
-  {
-    "category": "лор",
-    "question": "Кто командует Легионом Проклятых?",
-    "options": ["Kraken_5491", "Abaddon", "Void Sentinel", "Никто"],
-    "answer": 2
   }
 ]
