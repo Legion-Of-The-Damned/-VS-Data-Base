@@ -8,5 +8,15 @@
         "wins": 2,
         "losses": 7,
         "total": 9
+    },
+    "[LOTD] Kraken_5491": {
+        "wins": 1,
+        "losses": 0,
+        "total": 1
+    },
+    "[LOTD] Infinity": {
+        "wins": 0,
+        "losses": 1,
+        "total": 1
     }
 }
