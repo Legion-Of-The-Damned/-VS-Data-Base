@@ -1,0 +1,151 @@
+2025-11-14 04:33:49 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno 11001] getaddrinfo failed
+2025-11-14 04:33:50 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.general, cogs.music
+2025-11-14 04:33:50 | ERROR    | 
+--- Ошибка в `cogs.general` ---
+Traceback (most recent call last):
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1027, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\cogs\general.py", line 6, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\main.py", line 48, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.general' raised an error: ModuleNotFoundError: No module named 'psutil'
+
+--- Конец ошибки ---
+2025-11-14 04:33:50 | ERROR    | 
+--- Ошибка в `cogs.music` ---
+Traceback (most recent call last):
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1027, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\cogs\music.py", line 5, in <module>
+    import yt_dlp
+ModuleNotFoundError: No module named 'yt_dlp'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\main.py", line 48, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.music' raised an error: ModuleNotFoundError: No module named 'yt_dlp'
+
+--- Конец ошибки ---
+2025-11-14 04:33:53 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:33:53 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:33:53 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:33:53 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:33:53 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:33:54 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:34:02 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:35:18 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 404 Not Found"
+2025-11-14 04:35:18 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: {'message': "Could not find the table 'public.active_duels' in the schema cache", 'code': 'PGRST205', 'hint': None, 'details': None}
+2025-11-14 04:35:20 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.general
+2025-11-14 04:35:20 | ERROR    | 
+--- Ошибка в `cogs.general` ---
+Traceback (most recent call last):
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<frozen importlib._bootstrap_external>", line 1027, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\cogs\general.py", line 6, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\KLegi\Desktop\Void-Sentinel-develop\main.py", line 48, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\KLegi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.general' raised an error: ModuleNotFoundError: No module named 'psutil'
+
+--- Конец ошибки ---
+2025-11-14 04:35:22 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:36:20 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:36:22 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:36:22 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:36:23 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:36:27 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:36:27 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:36:27 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:36:27 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:36:27 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:36:27 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:40:08 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:42:46 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:42:47 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:42:47 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:42:49 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:42:52 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:42:52 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:42:52 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:42:52 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:42:52 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:42:52 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:43:42 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:45:02 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:45:02 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:45:02 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:45:04 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:45:08 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:45:08 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:45:08 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:45:08 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:45:08 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:45:08 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:46:06 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:46:25 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:46:25 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:46:25 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:46:28 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:46:31 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:46:31 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:46:31 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:46:31 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:46:31 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:46:32 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:49:03 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:49:18 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:49:18 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:49:18 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:49:20 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:49:24 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:49:24 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:49:24 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:49:24 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:49:24 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:49:24 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:49:40 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-11-14 04:52:28 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:52:28 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-14 04:52:28 | INFO     | ✅ Данные из Supabase загружены
+2025-11-14 04:52:30 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-14 04:52:33 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-14 04:52:33 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-14 04:52:33 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 282
+2025-11-14 04:52:33 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-14 04:52:33 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-14 04:52:34 | SUCCESS  | Команды успешно синхронизированы
+2025-11-14 04:53:56 | WARNING  | 🛑 Запуск остановлен вручную.
