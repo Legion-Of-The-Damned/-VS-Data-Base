@@ -1,0 +1,72 @@
+2025-11-16 20:02:30 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:02:30 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:02:30 | INFO     | ✅ Данные из Supabase загружены
+2025-11-16 20:02:36 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-11-16 20:02:39 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-11-16 20:02:39 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-11-16 20:02:39 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 280
+2025-11-16 20:02:39 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 56
+2025-11-16 20:02:39 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 4
+2025-11-16 20:02:40 | SUCCESS  | Команды успешно синхронизированы
+2025-11-16 20:04:28 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/quiz_questions?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:04:28 | INFO     | ✅ Загружено 2 вопросов из Supabase
+2025-11-16 20:04:28 | INFO     | abtraktovic_77847 открыл меню выбора категории для викторины
+2025-11-16 20:04:37 | INFO     | abtraktovic_77847 начал викторину в категории: технологии
+2025-11-16 20:04:45 | INFO     | abtraktovic_77847 ответил правильно на вопрос: Какой язык программирования используется для Void Sentinel?
+2025-11-16 20:04:51 | INFO     | kraken_5491 ответил правильно на вопрос: Какой язык программирования используется для Void Sentinel?
+2025-11-16 20:07:37 | INFO     | kraken_5491 запросил статистику для kraken_5491
+2025-11-16 20:08:57 | INFO     | Создана игра Монетка: abtraktovic_77847 vs Void Sentinel#5662
+2025-11-16 20:08:57 | INFO     | Игра создана: abtraktovic_77847 vs Void Sentinel#5662, сообщение 1439678648142528584
+2025-11-16 20:09:04 | INFO     | abtraktovic_77847 выбрал решка
+2025-11-16 20:09:04 | INFO     | Void Sentinel#5662 автоматически выбрал решка
+2025-11-16 20:09:04 | INFO     | Ничья в игре Монетка: результат орёл
+2025-11-16 20:09:28 | INFO     | [LOTD] AB$TRAKTOVIC принял дуэль rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce
+2025-11-16 20:09:32 | WARNING  | [LOTD] Kraken_5491 попытался принять не свою дуэль
+2025-11-16 20:09:58 | INFO     | [LOTD] Майор Гриб принял дуэль rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce
+2025-11-16 20:09:59 | INFO     | Дуэль rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce начата
+2025-11-16 20:10:02 | INFO     | [LOTD] AB$TRAKTOVIC выбрал ножницы в дуэли rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce
+2025-11-16 20:10:05 | INFO     | [LOTD] Kraken_5491 выбрал камень в дуэли rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce
+2025-11-16 20:10:13 | INFO     | [LOTD] Майор Гриб выбрал бумага в дуэли rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce
+2025-11-16 20:10:13 | INFO     | Дуэль rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce закончилась ничьей
+2025-11-16 20:10:28 | ERROR    | Ошибка при отправке информации о клане: 503 Service Unavailable (error code: 0): upstream connect error or disconnect/reset before headers. reset reason: connection termination
+2025-11-16 20:10:58 | INFO     | Дуэль rps-multi-0325dc9e-e457-44bd-bbc5-ed8d6f257bce отменена по таймауту
+2025-11-16 20:11:07 | INFO     | kraken_5491 вызвал общую статистику, но данных нет
+2025-11-16 20:12:40 | INFO     | Уведомление отправлено kraken_5491
+2025-11-16 20:12:44 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/applications "HTTP/2 201 Created"
+2025-11-16 20:12:44 | SUCCESS  | Заявка abtraktovic_77847 успешно сохранена в Supabase
+2025-11-16 20:12:48 | INFO     | Заявка отклонена: abtraktovic_77847
+2025-11-16 20:14:52 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 201 Created"
+2025-11-16 20:14:52 | INFO     | 💾 Дуэль [LOTD] Kraken_5491 vs [LOTD] AB$TRAKTOVIC сохранена в Supabase
+2025-11-16 20:14:53 | INFO     | 💠 Создано голосование: kraken_5491 vs abtraktovic_77847 в канале 💻тестовая-станция🧪
+2025-11-16 20:14:56 | WARNING  | abtraktovic_77847 попытался проголосовать за свою дуэль
+2025-11-16 20:15:09 | WARNING  | kraken_5491 попытался проголосовать за свою дуэль
+2025-11-16 20:15:15 | WARNING  | abtraktovic_77847 попытался проголосовать за свою дуэль
+2025-11-16 20:15:37 | INFO     | voslavuimperatora проголосовал за abtraktovic_77847 (opponent)
+2025-11-16 20:16:02 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 200 OK"
+2025-11-16 20:16:02 | INFO     | 💾 Дуэль [LOTD] Kraken_5491 vs [LOTD] AB$TRAKTOVIC сохранена в Supabase
+2025-11-16 20:16:03 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA "HTTP/2 201 Created"
+2025-11-16 20:16:03 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA "HTTP/2 201 Created"
+2025-11-16 20:16:03 | INFO     | 💾 Статистика игроков [LOTD] AB$TRAKTOVIC и [LOTD] Kraken_5491 сохранена в Supabase
+2025-11-16 20:16:27 | INFO     | kraken_5491 запросил статистику для abtraktovic_77847
+2025-11-16 20:16:34 | INFO     | kraken_5491 успешно вызвал общую статистику
+2025-11-16 20:16:38 | INFO     | Итоги голосования отправлены через webhook для дуэли kraken_5491 vs abtraktovic_77847
+2025-11-16 20:17:49 | INFO     | Уведомление отправлено kraken_5491
+2025-11-16 20:17:50 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/applications "HTTP/2 201 Created"
+2025-11-16 20:17:50 | SUCCESS  | Заявка voslavuimperatora успешно сохранена в Supabase
+2025-11-16 20:18:08 | SUCCESS  | Заявка одобрена: voslavuimperatora
+2025-11-16 20:20:06 | SUCCESS  | kraken_5491 отправил информацию о составе клана через вебхук
+2025-11-16 20:21:55 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/server_info?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:21:55 | INFO     | Данные с Supabase успешно загружены
+2025-11-16 20:22:11 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/server_info?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:22:11 | INFO     | Данные с Supabase успешно загружены
+2025-11-16 20:22:12 | INFO     | abtraktovic_77847 открыл меню информации о сервере
+2025-11-16 20:22:17 | INFO     | abtraktovic_77847 выбрал категорию 'Правила'
+2025-11-16 20:22:25 | INFO     | abtraktovic_77847 выбрал категорию 'Роли'
+2025-11-16 20:22:40 | WARNING  | kraken_5491 попытался использовать чужое меню InfoCog
+2025-11-16 20:22:46 | INFO     | abtraktovic_77847 выбрал категорию 'Правила'
+2025-11-16 20:22:54 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/server_info?select=%2A "HTTP/2 200 OK"
+2025-11-16 20:22:54 | INFO     | Данные с Supabase успешно загружены
+2025-11-16 20:22:55 | INFO     | kraken_5491 открыл меню информации о сервере
+2025-11-16 20:22:59 | INFO     | kraken_5491 выбрал категорию 'Правила'
+2025-11-16 20:23:01 | WARNING  | abtraktovic_77847 попытался использовать чужое меню InfoCog
+2025-11-16 20:24:12 | WARNING  | 🛑 Запуск остановлен вручную.
