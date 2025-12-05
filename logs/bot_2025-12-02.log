@@ -1,0 +1,33 @@
+2025-12-02 00:05:43 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:05:44 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:05:44 | INFO     | ✅ Данные из Supabase загружены
+2025-12-02 00:05:46 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-12-02 00:05:49 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-12-02 00:05:49 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-12-02 00:05:49 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 279
+2025-12-02 00:05:49 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 55
+2025-12-02 00:05:49 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 5
+2025-12-02 00:05:50 | SUCCESS  | Команды успешно синхронизированы
+2025-12-02 00:07:07 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-12-02 00:07:22 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:07:23 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:07:23 | INFO     | ✅ Данные из Supabase загружены
+2025-12-02 00:07:24 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-12-02 00:07:28 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2025-12-02 00:07:28 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 9
+2025-12-02 00:07:28 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 279
+2025-12-02 00:07:28 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 55
+2025-12-02 00:07:28 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 5
+2025-12-02 00:07:28 | SUCCESS  | Команды успешно синхронизированы
+2025-12-02 00:09:13 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:09:13 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:09:13 | INFO     | ✅ Данные из Supabase загружены
+2025-12-02 00:09:15 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-12-02 00:09:17 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-12-02 00:21:34 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:21:34 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-02 00:21:34 | INFO     | ✅ Данные из Supabase загружены
+2025-12-02 00:21:36 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-12-02 00:21:37 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-12-02 00:21:37 | ERROR    | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x0000029F4951D160>
