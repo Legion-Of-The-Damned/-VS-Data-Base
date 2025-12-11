@@ -1,0 +1,30 @@
+2025-12-11 17:58:43 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-11 17:58:43 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-11 17:58:43 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-11 17:58:46 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-11 17:58:49 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-11 17:58:49 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Учасників: 3
+2025-12-11 17:58:50 | INFO     | Команди успішно синхронізовані
+2025-12-11 18:00:07 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-24' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-main\cogs\music.py:265> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-main\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2025-12-11 18:00:14 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-11 18:01:31 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-11 18:01:31 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-11 18:01:31 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-11 18:01:33 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-11 18:01:37 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-11 18:01:37 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Учасників: 3
+2025-12-11 18:01:39 | INFO     | Команди успішно синхронізовані
+2025-12-11 18:34:49 | WARNING  | 🛑 Запуск зупинено вручну.
