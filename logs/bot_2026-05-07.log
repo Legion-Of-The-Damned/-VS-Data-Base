@@ -1,0 +1,438 @@
+2026-05-07 00:33:13,698 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:33:14,053 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:33:14,056 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:33:18,223 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:33:21,729 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:33:21,730 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:33:21,731 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:33:21,732 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:33:21,732 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:33:21,733 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-07 00:34:08,869 | ERROR    | Ошибка аудит логов: can't subtract offset-naive and offset-aware datetimes
+2026-05-07 00:34:08,870 | INFO     | infinite_5491 (1263265959851065528) вышел [leave]
+2026-05-07 00:34:09,241 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:34:09,443 | INFO     | ✅ Сообщение об уходе infinite_5491 (1263265959851065528) [leave]
+2026-05-07 00:34:09,814 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:36:05,823 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-07 00:36:06,413 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:36:06,629 | INFO     | ✅ Отправлено приветственное сообщение для infinite_5491 (1263265959851065528)
+2026-05-07 00:36:06,904 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:36:28,766 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 00:36:51,721 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:36:51,962 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:36:51,964 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:36:56,170 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:36:59,815 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:36:59,815 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:36:59,816 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:36:59,816 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:36:59,816 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:36:59,817 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-07 00:37:09,679 | INFO     | infinite_5491 (1263265959851065528) вышел [kick]
+2026-05-07 00:37:10,022 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:37:10,271 | INFO     | ✅ Уход infinite_5491 (1263265959851065528) [kick]
+2026-05-07 00:37:10,809 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:37:32,401 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-07 00:37:32,816 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:37:33,132 | INFO     | ✅ Отправлено приветствие infinite_5491 (1263265959851065528)
+2026-05-07 00:37:33,389 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:37:46,160 | INFO     | infinite_5491 (1263265959851065528) вышел [leave]
+2026-05-07 00:37:46,454 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:37:46,722 | INFO     | ✅ Уход infinite_5491 (1263265959851065528) [leave]
+2026-05-07 00:37:47,010 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:38:04,301 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-07 00:38:04,801 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:38:05,028 | INFO     | ✅ Отправлено приветствие infinite_5491 (1263265959851065528)
+2026-05-07 00:38:05,280 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:38:21,677 | INFO     | infinite_5491 (1263265959851065528) вышел [ban]
+2026-05-07 00:38:21,948 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-07 00:38:22,159 | INFO     | ✅ Уход infinite_5491 (1263265959851065528) [ban]
+2026-05-07 00:38:22,405 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-07 00:40:49,216 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 00:48:09,421 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:48:09,645 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:48:09,647 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:48:11,545 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:48:15,008 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:48:15,009 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:48:15,009 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:48:15,010 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:48:15,010 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:48:15,010 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 00:48:18,431 | INFO     | Создан временный канал 1501702171522236628 для kraken_5491
+2026-05-07 00:48:23,429 | INFO     | Создан временный канал 1501702192304885841 для kraken_5491
+2026-05-07 00:48:24,037 | INFO     | Удалён пустой канал 1501702171522236628
+2026-05-07 00:48:27,929 | INFO     | Удалён пустой канал 1501702192304885841
+2026-05-07 00:48:34,869 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 00:50:46,546 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:50:46,739 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:50:46,741 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:50:48,663 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:50:52,111 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:50:52,112 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:50:52,112 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:50:52,113 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:50:52,113 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:50:52,114 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 00:50:57,196 | INFO     | Создан временный канал 1501702837091041482 для kraken_5491
+2026-05-07 00:51:11,550 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 00:52:13,391 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:52:13,610 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:52:13,611 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:52:15,527 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:52:19,348 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:52:19,349 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:52:19,349 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:52:19,350 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:52:19,350 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:52:19,350 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 00:52:26,828 | INFO     | Создан временный канал 1501703213349605448 для kraken_5491
+2026-05-07 00:52:39,539 | INFO     | Удалён пустой канал 1501703213349605448
+2026-05-07 00:52:50,517 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 00:54:43,783 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:54:43,993 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 00:54:43,995 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 00:54:46,301 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 00:54:49,837 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 00:54:49,837 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 00:54:49,837 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 00:54:49,838 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 00:54:49,838 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 00:54:49,838 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 00:54:55,949 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-05-07 00:55:04,382 | SUCCESS  | Удалён пустой войс: 1501703838397104170
+2026-05-07 01:03:02,329 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 01:05:29,726 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:05:29,973 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:05:29,975 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 01:05:32,119 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 01:05:35,917 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 01:05:36,036 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 01:05:36,037 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 01:05:36,137 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 01:05:36,181 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 01:05:36,217 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 01:06:35,173 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 01:10:47,490 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:10:47,714 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:10:47,720 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 01:10:50,029 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 01:10:53,698 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 01:10:53,699 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 01:10:53,699 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 01:10:53,700 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 01:10:53,702 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 01:10:53,702 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 01:11:40,864 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 01:12:25,340 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:12:25,582 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:12:25,585 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 01:12:28,277 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 01:12:31,746 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 01:12:31,746 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 01:12:31,746 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 01:12:31,747 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 01:12:31,747 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 01:12:31,747 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 01:13:01,215 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\music.py:271> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\music.py", line 305, in player_loop
+    source = discord.FFmpegPCMAudio(url, **FFMPEG_OPTIONS)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 211, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2026-05-07 01:13:13,947 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 01:16:07,168 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:16:07,399 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:16:07,402 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 01:16:09,424 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 01:16:24,501 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 01:16:24,502 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 01:16:24,502 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 01:16:24,503 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 01:16:24,503 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 01:16:24,504 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 01:16:55,478 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\music.py:271> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\music.py", line 305, in player_loop
+    source = discord.FFmpegPCMAudio(url, **FFMPEG_OPTIONS)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 211, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2026-05-07 01:17:42,585 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 01:20:30,103 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:20:30,318 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 01:20:30,320 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 01:20:32,482 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 01:20:35,765 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 01:20:35,767 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 01:20:35,768 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 01:20:36,049 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-07 01:20:36,367 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 01:20:36,481 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 01:21:31,276 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 22:21:41,555 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 22:21:41,787 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 22:21:41,789 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 22:21:46,457 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 22:21:50,190 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 22:21:50,191 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 22:21:50,191 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 22:21:50,191 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 22:21:50,192 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 22:21:50,192 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 22:25:45,540 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 22:38:48,341 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 22:38:48,584 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 22:38:48,586 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 22:38:50,645 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 22:38:55,408 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 22:38:55,408 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 22:38:55,409 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 22:38:55,409 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 22:38:55,410 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 22:38:55,411 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:22:32,986 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:25:33,996 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:25:34,215 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:25:34,217 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:25:36,347 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:25:39,657 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:25:39,657 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:25:39,658 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:25:39,658 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:25:39,658 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:25:39,659 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:26:57,604 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:27:27,358 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:27:27,565 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:27:27,567 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:27:30,292 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:27:33,788 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:27:33,789 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:27:33,789 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:27:33,789 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:27:33,790 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:27:33,790 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:27:43,198 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:27:51,732 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:27:51,934 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:27:51,936 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:27:53,823 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:27:57,178 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:27:57,178 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:27:57,179 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:27:57,179 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:27:57,179 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:27:57,180 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:28:11,290 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:30:32,006 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:30:32,202 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:30:32,203 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:30:33,121 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:31:23,356 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:31:23,549 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:31:23,550 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:31:25,834 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:31:29,800 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:31:29,800 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:31:29,800 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:31:29,800 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:31:29,801 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:31:29,801 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:31:35,566 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:32:54,816 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:32:55,147 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:32:55,149 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:32:56,974 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:33:00,432 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:33:00,432 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:33:00,433 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:33:00,433 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:33:00,433 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:33:00,434 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:33:09,704 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:33:24,508 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:33:24,753 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:33:24,754 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:33:26,544 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:33:30,147 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:33:30,148 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:33:30,148 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:33:30,148 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:33:30,149 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:33:30,149 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:33:33,673 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:33:42,154 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:33:42,390 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:33:42,393 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:33:44,938 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:33:48,541 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:33:48,541 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:33:48,545 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:33:48,546 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:33:48,546 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:33:48,546 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:33:55,903 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:34:05,564 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:34:05,798 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:34:05,799 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:34:08,450 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:34:11,924 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:34:11,924 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:34:11,924 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:34:11,925 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:34:11,925 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:34:11,928 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:34:16,889 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:34:35,729 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:34:36,063 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:34:36,065 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:34:38,218 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:34:42,300 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:34:42,300 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:34:42,301 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:34:42,301 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:34:42,301 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:34:42,302 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:34:47,698 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:41:18,453 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:41:18,677 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:41:18,679 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:41:20,605 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:41:24,783 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:41:24,783 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:41:24,783 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:41:24,784 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:41:24,784 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:41:24,784 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:41:33,503 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:41:41,394 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:41:41,615 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:41:41,616 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:41:43,521 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:41:47,380 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:41:47,381 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:41:47,381 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:41:47,382 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:41:47,382 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:41:47,382 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:45:27,472 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:47:40,444 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:47:40,643 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:47:40,646 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:47:43,084 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.clan_war
+2026-05-07 23:47:43,084 | ERROR    | 
+--- Ошибка в `cogs.clan_war` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\clan_war.py", line 33
+    "https://cdn.discordapp.com/attachments/1297692294878859314/1427698466267599021/-__.png?ex=69fe12cf&is=69fcc14f&hm=d91376ff1094ba9dab8298b69f187edfefff3a15edfad0fc50ab62cee2e7b33a&
+    ^
+SyntaxError: unterminated string literal (detected at line 33)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.clan_war' raised an error: SyntaxError: unterminated string literal (detected at line 33) (clan_war.py, line 33)
+
+--- Конец ошибки ---
+2026-05-07 23:47:46,684 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:47:46,684 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:47:46,685 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:47:46,685 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:47:46,685 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:47:46,686 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:48:08,820 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:48:48,846 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:48:49,045 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:48:49,046 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:48:50,954 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:48:54,905 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:48:54,905 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:48:54,906 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:48:54,906 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:48:54,906 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:48:54,907 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:48:59,101 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:49:06,325 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:06,531 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:06,533 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:49:08,301 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:49:13,579 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:49:13,580 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:49:13,580 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:49:13,581 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:49:13,581 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:49:13,581 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:49:22,022 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:49:38,010 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:38,197 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:38,198 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:49:40,139 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:49:43,824 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:49:43,829 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:49:43,830 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:49:43,830 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:49:43,831 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:49:43,832 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:49:46,532 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:49:56,071 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:56,347 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:49:56,349 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:49:58,938 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:50:02,629 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:50:02,632 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:50:02,633 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:50:02,633 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:50:02,635 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:50:02,636 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:50:10,432 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:53:29,322 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:53:29,528 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:53:29,530 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:53:31,725 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:53:37,535 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:53:37,550 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:53:37,552 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:53:37,554 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:53:37,556 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:53:37,686 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:53:59,418 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-07 23:54:37,679 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:54:37,876 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-07 23:54:37,878 | INFO     | ✅ Данные из Supabase загружены
+2026-05-07 23:54:40,268 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-07 23:54:43,773 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-07 23:54:43,773 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-07 23:54:43,774 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-07 23:54:43,774 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-07 23:54:43,775 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-07 23:54:43,775 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-07 23:56:04,885 | WARNING  | 🛑 Запуск остановлен вручную.
