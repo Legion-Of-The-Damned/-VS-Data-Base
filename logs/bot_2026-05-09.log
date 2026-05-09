@@ -1,0 +1,381 @@
+2026-05-09 09:14:51,267 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 09:14:51,490 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 09:14:51,490 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 09:14:52,239 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 09:14:53,704 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 09:14:57,102 | INFO     | ⏳ ожидание готовности бота
+2026-05-09 09:14:57,102 | INFO     | ⏳ ожидание готовности бота
+2026-05-09 09:14:57,102 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 09:14:57,102 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 09:14:57,102 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 09:14:57,102 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 09:14:57,102 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 09:14:57,102 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 09:15:01,591 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-05-09 09:15:06,992 | SUCCESS  | Удалён пустой войс: 1502554467839512607
+2026-05-09 09:15:44,630 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 09:16:54,341 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 09:16:54,577 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 09:16:54,577 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 09:16:55,461 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 09:16:56,393 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 09:16:59,751 | INFO     | ⏳ ожидание готовности бота
+2026-05-09 09:16:59,751 | INFO     | ⏳ ожидание готовности бота
+2026-05-09 09:16:59,751 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 09:16:59,751 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 09:16:59,751 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 09:16:59,751 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 09:16:59,751 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 09:16:59,751 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 09:35:29,802 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-09 10:01:00,503 | INFO     | 📢 embed отправлен
+2026-05-09 12:17:10,970 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] ShErHaN/Шерха🔊| - (_military_4.5.0_corps_)
+2026-05-09 14:05:54,873 | INFO     | whysso2k (1444820422339334174) зашёл на сервер winie's server
+2026-05-09 14:05:55,322 | ERROR    | ❌ Ошибка webhook в staff: 403 Forbidden (error code: 50013): Missing Permissions
+2026-05-09 14:07:37,386 | ERROR    | Ошибка аудит логов: 403 Forbidden (error code: 50013): Missing Permissions
+2026-05-09 14:07:37,387 | INFO     | whysso2k (1444820422339334174) вышел [leave]
+2026-05-09 14:07:37,592 | ERROR    | ❌ Ошибка webhook в staff: 403 Forbidden (error code: 50013): Missing Permissions
+2026-05-09 14:41:03,779 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-09 15:11:37,020 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-09 16:55:54,970 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-09 20:01:00,982 | INFO     | 📢 предупреждение отправлено
+2026-05-09 20:01:00,995 | INFO     | 📩 DM старт (35 участников)
+2026-05-09 20:01:02,075 | DEBUG    | DM 30мин → .rauzor
+2026-05-09 20:01:03,172 | DEBUG    | DM 30мин → artempro009
+2026-05-09 20:01:03,976 | DEBUG    | DM 30мин → minikyozm
+2026-05-09 20:01:04,877 | DEBUG    | DM 30мин → nanax23
+2026-05-09 20:01:05,891 | DEBUG    | DM 30мин → masulmanee_1998_35876
+2026-05-09 20:01:07,028 | DEBUG    | DM 30мин → big_tokin
+2026-05-09 20:01:08,631 | DEBUG    | DM 30мин → boba5484
+2026-05-09 20:01:09,578 | DEBUG    | DM 30мин → teshekular_46636
+2026-05-09 20:01:10,528 | DEBUG    | DM 30мин → piskastrui0547_56108
+2026-05-09 20:01:11,415 | DEBUG    | DM 30мин → liusyk
+2026-05-09 20:01:12,595 | DEBUG    | DM 30мин → shiresotay
+2026-05-09 20:01:13,375 | WARNING  | DM ошибка 30мин d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:01:14,454 | DEBUG    | DM 30мин → helloniger7557
+2026-05-09 20:01:15,826 | DEBUG    | DM 30мин → zeduni._.
+2026-05-09 20:01:16,964 | DEBUG    | DM 30мин → andrey_mansory
+2026-05-09 20:01:17,812 | WARNING  | DM ошибка 30мин karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:01:18,608 | DEBUG    | DM 30мин → voscing
+2026-05-09 20:01:19,624 | DEBUG    | DM 30мин → 45387
+2026-05-09 20:01:20,912 | DEBUG    | DM 30мин → gi3na
+2026-05-09 20:01:21,860 | DEBUG    | DM 30мин → poseidonskiytynka
+2026-05-09 20:01:22,638 | WARNING  | DM ошибка 30мин orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:01:23,394 | DEBUG    | DM 30мин → abscvr
+2026-05-09 20:01:24,229 | DEBUG    | DM 30мин → dsdaynebanu
+2026-05-09 20:01:25,282 | DEBUG    | DM 30мин → divakin661
+2026-05-09 20:01:26,267 | DEBUG    | DM 30мин → kaneki_ken0331
+2026-05-09 20:01:27,232 | DEBUG    | DM 30мин → ttarkeq
+2026-05-09 20:01:28,222 | DEBUG    | DM 30мин → fudokido
+2026-05-09 20:01:29,486 | DEBUG    | DM 30мин → tankist_tolko_natural.
+2026-05-09 20:01:30,294 | WARNING  | DM ошибка 30мин denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:01:30,851 | DEBUG    | DM 30мин → _military_4.5.0_corps_
+2026-05-09 20:01:31,994 | DEBUG    | DM 30мин → ww_hudson
+2026-05-09 20:01:32,972 | DEBUG    | DM 30мин → 38129
+2026-05-09 20:01:34,336 | DEBUG    | DM 30мин → kraken_5491
+2026-05-09 20:01:35,253 | DEBUG    | DM 30мин → biruwka1_62224
+2026-05-09 20:01:36,737 | DEBUG    | DM 30мин → gfire36_13005
+2026-05-09 20:31:37,546 | DEBUG    | DM старт → .rauzor
+2026-05-09 20:31:38,128 | DEBUG    | DM старт → artempro009
+2026-05-09 20:31:38,911 | DEBUG    | DM старт → minikyozm
+2026-05-09 20:31:39,513 | DEBUG    | DM старт → nanax23
+2026-05-09 20:31:40,354 | DEBUG    | DM старт → masulmanee_1998_35876
+2026-05-09 20:31:40,945 | DEBUG    | DM старт → big_tokin
+2026-05-09 20:31:41,492 | DEBUG    | DM старт → boba5484
+2026-05-09 20:31:42,058 | DEBUG    | DM старт → teshekular_46636
+2026-05-09 20:31:42,721 | DEBUG    | DM старт → piskastrui0547_56108
+2026-05-09 20:31:43,285 | DEBUG    | DM старт → liusyk
+2026-05-09 20:31:43,927 | DEBUG    | DM старт → shiresotay
+2026-05-09 20:31:44,438 | WARNING  | DM ошибка старт d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:31:44,809 | DEBUG    | DM старт → helloniger7557
+2026-05-09 20:31:45,437 | DEBUG    | DM старт → zeduni._.
+2026-05-09 20:31:46,180 | DEBUG    | DM старт → andrey_mansory
+2026-05-09 20:31:46,746 | WARNING  | DM ошибка старт karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:31:47,038 | DEBUG    | DM старт → voscing
+2026-05-09 20:31:47,708 | DEBUG    | DM старт → 45387
+2026-05-09 20:31:48,347 | DEBUG    | DM старт → gi3na
+2026-05-09 20:31:49,693 | DEBUG    | DM старт → poseidonskiytynka
+2026-05-09 20:31:50,295 | WARNING  | DM ошибка старт orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:31:50,729 | DEBUG    | DM старт → abscvr
+2026-05-09 20:31:51,332 | DEBUG    | DM старт → dsdaynebanu
+2026-05-09 20:31:51,980 | DEBUG    | DM старт → divakin661
+2026-05-09 20:31:52,619 | DEBUG    | DM старт → kaneki_ken0331
+2026-05-09 20:31:53,240 | DEBUG    | DM старт → ttarkeq
+2026-05-09 20:31:54,059 | DEBUG    | DM старт → fudokido
+2026-05-09 20:31:54,847 | DEBUG    | DM старт → tankist_tolko_natural.
+2026-05-09 20:31:55,389 | WARNING  | DM ошибка старт denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:31:55,664 | DEBUG    | DM старт → _military_4.5.0_corps_
+2026-05-09 20:31:56,444 | DEBUG    | DM старт → ww_hudson
+2026-05-09 20:31:57,067 | DEBUG    | DM старт → 38129
+2026-05-09 20:31:58,313 | DEBUG    | DM старт → kraken_5491
+2026-05-09 20:31:59,093 | DEBUG    | DM старт → biruwka1_62224
+2026-05-09 20:31:59,874 | DEBUG    | DM старт → gfire36_13005
+2026-05-09 20:52:00,913 | DEBUG    | DM 20мин → .rauzor
+2026-05-09 20:52:01,625 | DEBUG    | DM 20мин → artempro009
+2026-05-09 20:52:02,342 | DEBUG    | DM 20мин → minikyozm
+2026-05-09 20:52:03,260 | DEBUG    | DM 20мин → nanax23
+2026-05-09 20:52:03,539 | SUCCESS  | Удалён пустой войс: 1502600308801671254
+2026-05-09 20:52:04,028 | DEBUG    | DM 20мин → masulmanee_1998_35876
+2026-05-09 20:52:05,066 | DEBUG    | DM 20мин → big_tokin
+2026-05-09 20:52:05,823 | DEBUG    | DM 20мин → boba5484
+2026-05-09 20:52:06,422 | DEBUG    | DM 20мин → teshekular_46636
+2026-05-09 20:52:07,320 | DEBUG    | DM 20мин → piskastrui0547_56108
+2026-05-09 20:52:07,971 | DEBUG    | DM 20мин → liusyk
+2026-05-09 20:52:08,571 | DEBUG    | DM 20мин → shiresotay
+2026-05-09 20:52:09,094 | WARNING  | DM ошибка 20мин d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:52:09,452 | DEBUG    | DM 20мин → helloniger7557
+2026-05-09 20:52:10,118 | DEBUG    | DM 20мин → zeduni._.
+2026-05-09 20:52:10,753 | DEBUG    | DM 20мин → andrey_mansory
+2026-05-09 20:52:11,422 | WARNING  | DM ошибка 20мин karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:52:12,200 | DEBUG    | DM 20мин → voscing
+2026-05-09 20:52:12,862 | DEBUG    | DM 20мин → 45387
+2026-05-09 20:52:13,605 | DEBUG    | DM 20мин → gi3na
+2026-05-09 20:52:14,279 | DEBUG    | DM 20мин → poseidonskiytynka
+2026-05-09 20:52:14,855 | WARNING  | DM ошибка 20мин orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:52:15,222 | DEBUG    | DM 20мин → abscvr
+2026-05-09 20:52:15,865 | DEBUG    | DM 20мин → dsdaynebanu
+2026-05-09 20:52:16,511 | DEBUG    | DM 20мин → divakin661
+2026-05-09 20:52:17,155 | DEBUG    | DM 20мин → kaneki_ken0331
+2026-05-09 20:52:17,855 | DEBUG    | DM 20мин → ttarkeq
+2026-05-09 20:52:20,517 | DEBUG    | DM 20мин → fudokido
+2026-05-09 20:52:21,341 | DEBUG    | DM 20мин → tankist_tolko_natural.
+2026-05-09 20:52:21,873 | WARNING  | DM ошибка 20мин denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-09 20:52:22,207 | DEBUG    | DM 20мин → _military_4.5.0_corps_
+2026-05-09 20:52:22,860 | DEBUG    | DM 20мин → ww_hudson
+2026-05-09 20:52:23,496 | DEBUG    | DM 20мин → 38129
+2026-05-09 20:52:24,159 | DEBUG    | DM 20мин → kraken_5491
+2026-05-09 20:52:24,749 | DEBUG    | DM 20мин → biruwka1_62224
+2026-05-09 20:52:25,860 | DEBUG    | DM 20мин → gfire36_13005
+2026-05-09 20:52:26,168 | SUCCESS  | ✅ DM цикл завершён
+2026-05-09 22:53:15,824 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:06:29,101 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:06:29,320 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:06:29,322 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:06:30,250 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:06:31,614 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:06:35,431 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:06:35,431 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:06:35,432 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:06:35,432 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:06:35,432 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:06:35,433 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:06:35,433 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:06:35,433 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:06:36,180 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-09 23:06:52,043 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:07:56,411 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:07:56,644 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:07:56,645 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:07:57,546 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:07:58,759 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:08:02,382 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:08:02,382 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:08:02,382 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:08:02,383 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:08:02,383 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:08:02,384 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:08:02,384 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:08:02,384 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:08:02,847 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-09 23:09:38,371 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:09:48,163 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:09:48,382 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:09:48,393 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:09:49,665 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:09:51,465 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:09:55,049 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:09:55,070 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:09:55,073 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:09:55,083 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:09:55,099 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:09:55,102 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:09:55,102 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:09:55,105 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:09:55,131 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-09 23:09:55,188 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-09 23:09:56,049 | DEBUG    | 📨 DM → kraken_5491
+2026-05-09 23:09:58,562 | DEBUG    | 📨 DM → big_tokin
+2026-05-09 23:09:59,451 | DEBUG    | 📨 DM → infinite_5491
+2026-05-09 23:11:57,949 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:12:10,457 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:12:10,656 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:12:10,658 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:12:11,718 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:12:12,766 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:12:16,235 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:12:16,235 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:12:16,235 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:12:16,236 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:12:16,236 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:12:16,237 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:12:16,238 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:12:16,238 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:12:16,241 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-09 23:12:16,242 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-09 23:12:16,901 | DEBUG    | 📨 DM → kraken_5491
+2026-05-09 23:12:17,690 | DEBUG    | 📨 DM → big_tokin
+2026-05-09 23:12:18,513 | DEBUG    | 📨 DM → infinite_5491
+2026-05-09 23:12:33,670 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:13:19,794 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:13:19,993 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:13:19,995 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:13:20,909 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:13:22,025 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:13:25,402 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:13:25,482 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:13:25,487 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:13:25,493 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:13:25,503 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:13:25,505 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:13:25,587 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:13:25,601 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:13:25,609 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-09 23:13:25,615 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-09 23:13:26,369 | DEBUG    | 📨 DM → kraken_5491
+2026-05-09 23:13:27,163 | DEBUG    | 📨 DM → big_tokin
+2026-05-09 23:13:28,287 | DEBUG    | 📨 DM → infinite_5491
+2026-05-09 23:13:37,910 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:16:35,791 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:16:35,990 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:16:35,991 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:16:36,817 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:16:38,235 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:16:41,710 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:16:41,710 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:16:41,710 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:16:41,710 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:16:41,711 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:16:41,711 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:16:41,711 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:16:41,712 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:16:42,067 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-09 23:16:45,800 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:26:45,629 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:26:45,868 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:26:45,886 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:26:48,609 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:26:49,959 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-09 23:26:53,404 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:26:53,404 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:26:53,404 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:26:53,406 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:26:53,406 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:26:53,407 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:26:53,408 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:26:53,408 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:47:13,636 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:47:32,176 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:47:32,400 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:47:32,402 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:47:33,552 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:47:34,621 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.admin
+2026-05-09 23:47:34,621 | ERROR    | 
+--- Ошибка в `cogs.admin` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\admin.py", line 53
+    await interaction.response.send_message(
+    ^^^^^
+IndentationError: expected an indented block after 'if' statement on line 52
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.admin' raised an error: IndentationError: expected an indented block after 'if' statement on line 52 (admin.py, line 53)
+
+--- Конец ошибки ---
+2026-05-09 23:47:38,013 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:51:37,130 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:51:37,320 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:51:37,322 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:51:38,146 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:51:39,141 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.admin
+2026-05-09 23:51:39,142 | ERROR    | 
+--- Ошибка в `cogs.admin` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\admin.py", line 54
+    await interaction.response.send_message(
+    ^^^^^
+IndentationError: expected an indented block after 'if' statement on line 53
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.admin' raised an error: IndentationError: expected an indented block after 'if' statement on line 53 (admin.py, line 54)
+
+--- Конец ошибки ---
+2026-05-09 23:51:43,928 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:51:43,929 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:51:43,929 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:51:43,930 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:51:43,930 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:51:43,930 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:51:43,931 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:51:43,931 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:51:47,387 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-09 23:52:47,921 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:52:48,104 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-09 23:52:48,106 | INFO     | ✅ Данные из Supabase загружены
+2026-05-09 23:52:49,224 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-09 23:52:50,652 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.admin
+2026-05-09 23:52:50,656 | ERROR    | 
+--- Ошибка в `cogs.admin` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\admin.py", line 54
+    await interaction.response.send_message(
+    ^^^^^
+IndentationError: expected an indented block after 'if' statement on line 53
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.admin' raised an error: IndentationError: expected an indented block after 'if' statement on line 53 (admin.py, line 54)
+
+--- Конец ошибки ---
+2026-05-09 23:52:54,014 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:52:54,015 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-09 23:52:54,015 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-09 23:52:54,016 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-09 23:52:54,016 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-09 23:52:54,016 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-09 23:52:54,017 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-09 23:52:54,017 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-09 23:52:56,256 | WARNING  | 🛑 Запуск остановлен вручную.
