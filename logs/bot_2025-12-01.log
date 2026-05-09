@@ -1,0 +1,236 @@
+2025-12-01 15:30:57 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno 11001] getaddrinfo failed
+2025-12-01 15:30:59 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2025-12-01 15:31:03 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успешно запущен (ID: 1442600551593541773)
+2025-12-01 15:31:03 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Участников: 5
+2025-12-01 15:31:03 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:33:56 | WARNING  | 🛑 Запуск остановлен вручную.
+2025-12-01 15:35:33 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:35:33 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:35:33 | INFO     | ✅ Данные из Supabase загружены
+2025-12-01 15:35:34 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 15:35:38 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 15:35:38 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 15:35:38 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:35:51 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 15:38:35 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:38:35 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:38:35 | INFO     | ✅ Данные из Supabase загружены
+2025-12-01 15:38:37 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 15:38:40 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 15:38:40 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 15:38:41 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:40:06 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 15:43:39 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:43:39 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:43:39 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 15:43:41 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 15:43:45 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 15:43:45 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 15:43:45 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:43:54 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 15:50:32 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:50:33 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:50:33 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 15:50:34 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 15:50:38 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 15:50:38 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 15:50:38 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:53:20 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 15:58:01 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:58:01 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 15:58:01 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 15:58:03 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 15:58:06 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 15:58:06 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 15:58:06 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 15:59:03 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-21' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2025-12-01 16:01:35 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:01:44 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:01:45 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:01:45 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:01:47 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:01:50 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:01:50 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:01:51 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:02:10 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=ClientException('./ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, executable="./ffmpeg.exe", **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ./ffmpeg.exe was not found.
+2025-12-01 16:02:14 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:03:14 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:03:15 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:03:15 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:03:16 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:03:20 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:03:20 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:03:20 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:03:44 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=ClientException('.ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, executable=".ffmpeg.exe", **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: .ffmpeg.exe was not found.
+2025-12-01 16:03:49 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:04:25 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:04:25 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:04:25 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:04:28 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:04:31 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:04:31 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:04:31 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:04:45 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=ClientException('ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, executable="ffmpeg.exe", **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg.exe was not found.
+2025-12-01 16:04:49 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:05:10 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:05:10 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:05:10 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:05:12 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:05:15 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:05:15 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:05:31 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=ClientException('./ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    source = discord.FFmpegPCMAudio(url, executable="./ffmpeg.exe", **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ./ffmpeg.exe was not found.
+2025-12-01 16:05:38 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:07:22 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:07:23 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:07:23 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:07:25 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:07:28 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:07:28 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:07:28 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:07:45 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:265> exception=NameError("name 'os' is not defined")>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 292, in player_loop
+    FFMPEG_PATH = os.path.join(os.path.dirname(__file__), '..', 'ffmpeg', 'ffmpeg.exe')
+                  ^^
+NameError: name 'os' is not defined. Did you forget to import 'os'?
+2025-12-01 16:07:50 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:08:13 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:08:13 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:08:13 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:08:15 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:08:18 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:08:18 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:08:27 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py:266> exception=ClientException('C:\\Users\\Kraken_5491\\Desktop\\Void-Sentinel-UA\\cogs\\..\\ffmpeg\\ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\music.py", line 294, in player_loop
+    source = discord.FFmpegPCMAudio(url, executable=FFMPEG_PATH, **FFMPEG_OPTIONS)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 346, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python314\Lib\site-packages\discord\player.py", line 209, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: C:\Users\Kraken_5491\Desktop\Void-Sentinel-UA\cogs\..\ffmpeg\ffmpeg.exe was not found.
+2025-12-01 16:08:38 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:18:15 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:18:16 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:18:16 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:18:18 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:18:21 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:18:21 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:18:21 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:18:54 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:22:06 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:22:06 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:22:06 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:22:08 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:22:11 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:22:11 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:22:11 | SUCCESS  | Команды успешно синхронизированы
+2025-12-01 16:22:33 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/quiz_questions?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:22:33 | INFO     | ✅ Завантажено 0 питань із Supabase
+2025-12-01 16:22:34 | ERROR    | kraken_5491 спробував запустити вікторину, але питання відсутні
+2025-12-01 16:24:15 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/server_info?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:24:15 | INFO     | Дані з Supabase успішно завантажено
+2025-12-01 16:24:16 | INFO     | kraken_5491 відкрив меню інформації про сервер
+2025-12-01 16:24:21 | INFO     | kraken_5491 обрав категорію 'Правила'
+2025-12-01 16:24:33 | WARNING  | 🛑 Запуск зупинено вручну.
+2025-12-01 16:41:49 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:41:49 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2025-12-01 16:41:49 | INFO     | ✅ Дані з Supabase завантажено
+2025-12-01 16:41:51 | SUCCESS  | 🎉 Усі файли cogs успішно завантажені!
+2025-12-01 16:41:54 | SUCCESS  | 🤖 Бот `Void Sentinel UA#9123` успішно запущений (ID: 1442600551593541773)
+2025-12-01 16:41:54 | INFO     | 🛡 Сервер: Сервер користувача kraken_5491 | ID: 1411475618343686187 | Учасників: 5
+2025-12-01 16:41:55 | INFO     | Команди успішно синхронізовані
+2025-12-01 16:44:04 | INFO     | Створено гру Монетка: kraken_5491 vs Void Sentinel UA#9123
+2025-12-01 16:44:05 | INFO     | Гра створена: kraken_5491 vs Void Sentinel UA#9123, повідомлення 1445062910454923436
+2025-12-01 16:44:07 | INFO     | kraken_5491 обрав орел
+2025-12-01 16:44:07 | INFO     | Void Sentinel UA#9123 автоматично обрав решка
+2025-12-01 16:44:07 | INFO     | Void Sentinel UA#9123 переміг у грі Монетка (решка)
+2025-12-01 16:44:17 | INFO     | kraken_5491 надіслав інформацію про склад клану через вебхук
+2025-12-01 16:44:33 | INFO     | kraken_5491 запросив статистику для kraken_5491
+2025-12-01 16:44:43 | INFO     | kraken_5491 успішно викликав загальну статистику
+2025-12-01 16:45:55 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 200 OK"
+2025-12-01 16:45:55 | INFO     | 💾 Дуель [LOTD] Kraken_5491 vs [LOTD] AB$TRAKTOVIC збережена у Supabase
+2025-12-01 16:45:55 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 200 OK"
+2025-12-01 16:45:55 | INFO     | 💾 Дуель [LOTD] Kraken_5491 vs [LOTD] Infinity збережена у Supabase
+2025-12-01 16:45:56 | INFO     | 💠 Створено голосування: kraken_5491 vs infinite_5491 у каналі 💬чат-канал💬
+2025-12-01 16:46:00 | WARNING  | infinite_5491 спробував проголосувати за свою дуель
+2025-12-01 16:46:25 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 200 OK"
+2025-12-01 16:46:25 | INFO     | 💾 Дуель [LOTD] Kraken_5491 vs [LOTD] AB$TRAKTOVIC збережена у Supabase
+2025-12-01 16:46:25 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+1&on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA+2 "HTTP/2 200 OK"
+2025-12-01 16:46:25 | INFO     | 💾 Дуель [LOTD] Kraken_5491 vs [LOTD] Infinity збережена у Supabase
+2025-12-01 16:46:26 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA "HTTP/2 200 OK"
+2025-12-01 16:46:26 | INFO     | HTTP Request: POST https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?on_conflict=%D0%98%D0%B3%D1%80%D0%BE%D0%BA "HTTP/2 201 Created"
+2025-12-01 16:46:26 | INFO     | 💾 Статистика гравців [LOTD] Kraken_5491 і [LOTD] Infinity збережена у Supabase
+2025-12-01 16:46:38 | INFO     | kraken_5491 успішно викликав загальну статистику
+2025-12-01 16:46:52 | WARNING  | 🛑 Запуск зупинено вручну.
