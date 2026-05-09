@@ -1,0 +1,301 @@
+2026-05-08 00:09:16,233 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:09:16,476 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:09:16,478 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:09:18,315 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:09:21,866 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:09:21,900 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:09:21,919 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:09:21,950 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:09:21,950 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:09:21,951 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:09:32,588 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:09:41,468 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:09:41,689 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:09:41,690 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:09:44,018 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:09:47,735 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:09:47,735 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:09:47,736 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:09:47,736 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:09:47,737 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:09:47,737 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:09:55,389 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:10:04,111 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:10:04,453 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:10:04,454 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:10:06,353 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:10:10,049 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:10:10,050 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:10:10,050 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:10:10,050 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:10:10,051 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:10:10,051 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:10:22,266 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:10:39,504 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:10:39,732 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:10:39,733 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:10:41,548 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:10:45,057 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:10:45,058 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:10:45,059 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:10:45,060 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:10:45,060 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:10:45,061 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:11:08,746 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:13:04,996 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:13:05,238 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:13:05,246 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:13:07,685 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:13:11,227 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:13:11,228 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:13:11,228 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:13:11,228 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:13:11,229 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:13:11,229 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:13:22,600 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:15:35,275 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:15:35,487 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:15:35,488 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:15:36,312 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 00:15:37,468 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:15:40,899 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 00:15:40,900 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 00:15:40,900 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:15:40,901 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:15:40,902 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:15:40,902 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:15:40,903 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:15:40,903 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:15:41,564 | INFO     | 📢 embed отправлен
+2026-05-08 00:15:55,031 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 00:18:13,879 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:18:14,126 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 00:18:14,128 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 00:18:15,002 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 00:18:16,045 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 00:18:19,461 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 00:18:19,462 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 00:18:19,462 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 00:18:19,463 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 00:18:19,463 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 00:18:19,463 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 48
+2026-05-08 00:18:19,464 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 00:18:19,464 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 00:22:23,730 | INFO     | Создана игра Монетка: kraken_5491 vs Void Sentinel#5662
+2026-05-08 00:22:24,379 | INFO     | Игра создана: kraken_5491 vs Void Sentinel#5662, сообщение 1502058043792167134
+2026-05-08 00:22:27,559 | INFO     | kraken_5491 выбрал орёл
+2026-05-08 00:22:27,560 | INFO     | Void Sentinel#5662 автоматически выбрал орёл
+2026-05-08 00:22:27,560 | INFO     | Ничья в игре Монетка: результат решка
+2026-05-08 05:21:35,522 | ERROR    | Ошибка аудит логов: 403 Forbidden (error code: 50013): Missing Permissions
+2026-05-08 05:21:35,522 | INFO     | coolman123406 (995333946067914913) вышел [leave]
+2026-05-08 05:21:35,754 | ERROR    | ❌ Ошибка webhook в staff: 403 Forbidden (error code: 50013): Missing Permissions
+2026-05-08 07:30:44,617 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 07:32:10,513 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 07:32:10,711 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 07:32:10,712 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 07:32:11,416 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 07:32:12,897 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 07:32:16,766 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 07:32:16,766 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 07:32:16,767 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 07:32:16,768 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 07:32:16,768 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 07:32:16,769 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-08 07:32:16,769 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 07:32:16,770 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 10:35:39,246 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-05-08 10:35:45,291 | SUCCESS  | Удалён пустой войс: 1502212375015587890
+2026-05-08 10:35:49,419 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 10:36:23,755 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 10:36:23,989 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 10:36:23,991 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 10:36:24,685 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 10:36:25,605 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 10:36:29,404 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 10:36:29,405 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 10:36:29,405 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 10:36:29,406 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 10:36:29,406 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 10:36:29,407 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-08 10:36:29,407 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 10:36:29,407 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 10:36:56,237 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-05-08 10:36:59,780 | SUCCESS  | Удалён пустой войс: 1502212697712885790
+2026-05-08 12:00:29,907 | INFO     | 📢 embed отправлен
+2026-05-08 12:01:27,998 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 12:02:01,036 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 12:02:01,253 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 12:02:01,257 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 12:02:03,052 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 12:02:06,610 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 12:02:10,682 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 12:02:10,683 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 12:02:10,683 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 12:02:10,683 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 12:02:10,684 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 12:02:10,684 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-08 12:02:10,684 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 12:02:10,685 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 12:04:32,073 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 12:26:54,140 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 12:26:54,432 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 12:26:54,453 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 12:26:55,584 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 12:26:57,326 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 12:27:01,574 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 12:27:01,575 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 12:27:01,575 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 12:27:01,575 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 12:27:01,576 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 12:27:01,576 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-08 12:27:01,576 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 12:27:01,577 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 14:51:41,376 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Wertuoz🔊| - (tankist_tolko_natural.)
+2026-05-08 14:51:42,016 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Wertuoz🔊| - (tankist_tolko_natural.)
+2026-05-08 14:51:44,353 | SUCCESS  | Удалён пустой войс: 1502276807314116648
+2026-05-08 19:49:25,754 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-08 20:00:02,551 | INFO     | 📢 предупреждение отправлено
+2026-05-08 20:00:02,553 | ERROR    | ❌ Guild не найден
+2026-05-08 20:06:16,967 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 20:06:53,037 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 20:06:53,290 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 20:06:53,292 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 20:06:56,839 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 20:07:01,477 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 20:07:05,264 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 20:07:05,268 | INFO     | ⏳ ожидание готовности бота
+2026-05-08 20:07:05,272 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-08 20:07:05,273 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-08 20:07:05,273 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-08 20:07:05,274 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-08 20:07:05,292 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-08 20:07:05,297 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-08 20:07:06,127 | INFO     | 📢 предупреждение отправлено
+2026-05-08 20:07:06,138 | INFO     | 📩 DM старт (35 участников)
+2026-05-08 20:07:07,185 | DEBUG    | DM 30мин → helloniger7557
+2026-05-08 20:07:08,203 | DEBUG    | DM 30мин → tankist_tolko_natural.
+2026-05-08 20:07:09,115 | DEBUG    | DM 30мин → _military_4.5.0_corps_
+2026-05-08 20:07:09,987 | DEBUG    | DM 30мин → .rauzor
+2026-05-08 20:07:11,010 | DEBUG    | DM 30мин → artempro009
+2026-05-08 20:07:12,075 | DEBUG    | DM 30мин → minikyozm
+2026-05-08 20:07:13,074 | DEBUG    | DM 30мин → nanax23
+2026-05-08 20:07:14,559 | DEBUG    | DM 30мин → masulmanee_1998_35876
+2026-05-08 20:07:15,858 | DEBUG    | DM 30мин → big_tokin
+2026-05-08 20:07:17,720 | DEBUG    | DM 30мин → boba5484
+2026-05-08 20:07:18,742 | DEBUG    | DM 30мин → teshekular_46636
+2026-05-08 20:07:19,721 | DEBUG    | DM 30мин → piskastrui0547_56108
+2026-05-08 20:07:21,807 | DEBUG    | DM 30мин → liusyk
+2026-05-08 20:07:25,552 | DEBUG    | DM 30мин → shiresotay
+2026-05-08 20:07:26,417 | DEBUG    | DM 30мин → d._sterben
+2026-05-08 20:07:27,359 | DEBUG    | DM 30мин → zeduni._.
+2026-05-08 20:07:28,490 | DEBUG    | DM 30мин → andrey_mansory
+2026-05-08 20:07:29,959 | DEBUG    | DM 30мин → karma341
+2026-05-08 20:07:30,865 | DEBUG    | DM 30мин → voscing
+2026-05-08 20:07:32,422 | DEBUG    | DM 30мин → 45387
+2026-05-08 20:07:33,634 | DEBUG    | DM 30мин → gi3na
+2026-05-08 20:07:34,513 | DEBUG    | DM 30мин → poseidonskiytynka
+2026-05-08 20:07:35,487 | DEBUG    | DM 30мин → orfeyk
+2026-05-08 20:07:36,526 | DEBUG    | DM 30мин → abscvr
+2026-05-08 20:07:37,635 | DEBUG    | DM 30мин → dsdaynebanu
+2026-05-08 20:07:38,483 | DEBUG    | DM 30мин → divakin661
+2026-05-08 20:07:39,842 | DEBUG    | DM 30мин → kaneki_ken0331
+2026-05-08 20:07:46,872 | DEBUG    | DM 30мин → ttarkeq
+2026-05-08 20:07:48,102 | DEBUG    | DM 30мин → fudokido
+2026-05-08 20:07:49,390 | DEBUG    | DM 30мин → denchik7897
+2026-05-08 20:07:51,355 | DEBUG    | DM 30мин → ww_hudson
+2026-05-08 20:07:52,250 | DEBUG    | DM 30мин → 38129
+2026-05-08 20:07:53,368 | DEBUG    | DM 30мин → kraken_5491
+2026-05-08 20:07:55,080 | DEBUG    | DM 30мин → biruwka1_62224
+2026-05-08 20:07:56,628 | DEBUG    | DM 30мин → gfire36_13005
+2026-05-08 20:24:42,924 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Vasiliu🔊| - (d._sterben)
+2026-05-08 20:37:57,353 | DEBUG    | DM старт → helloniger7557
+2026-05-08 20:37:58,161 | DEBUG    | DM старт → tankist_tolko_natural.
+2026-05-08 20:37:58,858 | DEBUG    | DM старт → _military_4.5.0_corps_
+2026-05-08 20:37:59,725 | DEBUG    | DM старт → .rauzor
+2026-05-08 20:38:00,425 | DEBUG    | DM старт → artempro009
+2026-05-08 20:38:01,404 | DEBUG    | DM старт → minikyozm
+2026-05-08 20:38:02,257 | DEBUG    | DM старт → nanax23
+2026-05-08 20:38:03,961 | DEBUG    | DM старт → masulmanee_1998_35876
+2026-05-08 20:38:04,616 | DEBUG    | DM старт → big_tokin
+2026-05-08 20:38:05,254 | DEBUG    | DM старт → boba5484
+2026-05-08 20:38:05,939 | DEBUG    | DM старт → teshekular_46636
+2026-05-08 20:38:07,351 | DEBUG    | DM старт → piskastrui0547_56108
+2026-05-08 20:38:08,021 | DEBUG    | DM старт → liusyk
+2026-05-08 20:38:08,756 | DEBUG    | DM старт → shiresotay
+2026-05-08 20:38:09,752 | DEBUG    | DM старт → d._sterben
+2026-05-08 20:38:10,753 | DEBUG    | DM старт → zeduni._.
+2026-05-08 20:38:11,523 | DEBUG    | DM старт → andrey_mansory
+2026-05-08 20:38:12,525 | DEBUG    | DM старт → karma341
+2026-05-08 20:38:13,420 | DEBUG    | DM старт → voscing
+2026-05-08 20:38:14,169 | DEBUG    | DM старт → 45387
+2026-05-08 20:38:14,863 | DEBUG    | DM старт → gi3na
+2026-05-08 20:38:15,617 | DEBUG    | DM старт → poseidonskiytynka
+2026-05-08 20:38:16,593 | DEBUG    | DM старт → orfeyk
+2026-05-08 20:38:17,333 | DEBUG    | DM старт → abscvr
+2026-05-08 20:38:17,992 | DEBUG    | DM старт → dsdaynebanu
+2026-05-08 20:38:19,112 | DEBUG    | DM старт → divakin661
+2026-05-08 20:38:20,073 | DEBUG    | DM старт → kaneki_ken0331
+2026-05-08 20:38:20,823 | DEBUG    | DM старт → ttarkeq
+2026-05-08 20:38:21,763 | DEBUG    | DM старт → fudokido
+2026-05-08 20:38:22,503 | DEBUG    | DM старт → denchik7897
+2026-05-08 20:38:23,437 | DEBUG    | DM старт → ww_hudson
+2026-05-08 20:38:24,227 | DEBUG    | DM старт → 38129
+2026-05-08 20:38:24,988 | DEBUG    | DM старт → kraken_5491
+2026-05-08 20:38:25,762 | DEBUG    | DM старт → biruwka1_62224
+2026-05-08 20:38:26,409 | DEBUG    | DM старт → gfire36_13005
+2026-05-08 20:58:27,161 | DEBUG    | DM 20мин → helloniger7557
+2026-05-08 20:58:27,803 | DEBUG    | DM 20мин → tankist_tolko_natural.
+2026-05-08 20:58:28,476 | DEBUG    | DM 20мин → _military_4.5.0_corps_
+2026-05-08 20:58:29,487 | DEBUG    | DM 20мин → .rauzor
+2026-05-08 20:58:29,936 | SUCCESS  | Удалён пустой войс: 1502360617367896186
+2026-05-08 20:58:30,129 | DEBUG    | DM 20мин → artempro009
+2026-05-08 20:58:30,839 | DEBUG    | DM 20мин → minikyozm
+2026-05-08 20:58:31,490 | DEBUG    | DM 20мин → nanax23
+2026-05-08 20:58:32,422 | DEBUG    | DM 20мин → masulmanee_1998_35876
+2026-05-08 20:58:33,062 | DEBUG    | DM 20мин → big_tokin
+2026-05-08 20:58:34,018 | DEBUG    | DM 20мин → boba5484
+2026-05-08 20:58:34,958 | DEBUG    | DM 20мин → teshekular_46636
+2026-05-08 20:58:35,560 | DEBUG    | DM 20мин → piskastrui0547_56108
+2026-05-08 20:58:36,201 | DEBUG    | DM 20мин → liusyk
+2026-05-08 20:58:36,887 | DEBUG    | DM 20мин → shiresotay
+2026-05-08 20:58:37,511 | WARNING  | DM ошибка 20мин d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-08 20:58:37,860 | DEBUG    | DM 20мин → zeduni._.
+2026-05-08 20:58:38,540 | DEBUG    | DM 20мин → andrey_mansory
+2026-05-08 20:58:39,147 | WARNING  | DM ошибка 20мин karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-08 20:58:39,806 | DEBUG    | DM 20мин → voscing
+2026-05-08 20:58:40,611 | DEBUG    | DM 20мин → 45387
+2026-05-08 20:58:41,303 | DEBUG    | DM 20мин → gi3na
+2026-05-08 20:58:42,021 | DEBUG    | DM 20мин → poseidonskiytynka
+2026-05-08 20:58:42,628 | DEBUG    | DM 20мин → orfeyk
+2026-05-08 20:58:43,566 | DEBUG    | DM 20мин → abscvr
+2026-05-08 20:58:44,182 | DEBUG    | DM 20мин → dsdaynebanu
+2026-05-08 20:58:44,773 | DEBUG    | DM 20мин → divakin661
+2026-05-08 20:58:45,517 | DEBUG    | DM 20мин → kaneki_ken0331
+2026-05-08 20:58:46,223 | DEBUG    | DM 20мин → ttarkeq
+2026-05-08 20:58:46,878 | DEBUG    | DM 20мин → fudokido
+2026-05-08 20:58:47,499 | DEBUG    | DM 20мин → denchik7897
+2026-05-08 20:58:48,336 | DEBUG    | DM 20мин → ww_hudson
+2026-05-08 20:58:48,982 | DEBUG    | DM 20мин → 38129
+2026-05-08 20:58:50,324 | DEBUG    | DM 20мин → kraken_5491
+2026-05-08 20:58:51,297 | DEBUG    | DM 20мин → biruwka1_62224
+2026-05-08 20:58:52,036 | DEBUG    | DM 20мин → gfire36_13005
+2026-05-08 20:58:52,345 | SUCCESS  | ✅ DM цикл завершён
+2026-05-08 21:25:44,367 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 22:21:04,279 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 22:21:04,493 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 22:21:04,498 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 22:21:07,104 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 22:21:12,075 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 22:21:28,294 | CRITICAL | 🔥 Критическая ошибка при запуске: 429 Too Many Requests (error code: 40062): Service resource is being rate limited.
+2026-05-08 22:21:28,596 | ERROR    | Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000019197EDAE10>, 36977.015)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000019197EEFB90>
+2026-05-08 22:22:40,266 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-08 22:22:40,522 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-08 22:22:40,566 | INFO     | ✅ Данные из Supabase загружены
+2026-05-08 22:22:43,762 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-08 22:22:47,779 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-08 22:22:57,232 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-08 22:22:57,366 | ERROR    | Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x0000018A3B32AE10>, 37066.25)])']
+connector: <aiohttp.connector.TCPConnector object at 0x0000018A3B33FCB0>
