@@ -1,0 +1,845 @@
+2026-05-10 00:00:44,244 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:00:44,480 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:00:44,481 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:00:45,300 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:00:46,340 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:00:49,801 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:00:49,801 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:00:49,802 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:00:49,802 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:00:49,803 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:00:49,803 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:00:49,804 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:00:49,804 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:02:00,340 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:06:53,760 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:06:53,985 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:06:53,987 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:06:54,760 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:06:56,150 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:06:59,696 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:06:59,697 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:06:59,697 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:06:59,697 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:06:59,698 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:06:59,698 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:06:59,699 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:06:59,699 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:12:00,962 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:12:11,748 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:12:11,992 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:12:11,994 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:12:12,964 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:12:14,234 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.admin
+2026-05-10 00:12:14,235 | ERROR    | 
+--- Ошибка в `cogs.admin` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\cogs\admin.py", line 156
+    "❌ Формат: 5с / 10м / 1ч"
+    ^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel-main\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.admin' raised an error: SyntaxError: invalid syntax. Perhaps you forgot a comma? (admin.py, line 156)
+
+--- Конец ошибки ---
+2026-05-10 00:12:17,589 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:12:17,591 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:12:17,592 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:12:17,592 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:12:17,593 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:12:17,593 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:12:17,594 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:12:17,594 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:12:30,213 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:12:57,499 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:12:57,703 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:12:57,705 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:12:59,229 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:13:00,858 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:13:04,430 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:13:04,430 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:13:04,431 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:13:04,431 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:13:04,431 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:13:04,431 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:13:04,432 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:13:04,432 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:14:36,044 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:17:54,466 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:17:54,654 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:17:54,657 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:17:56,799 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:17:58,738 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:18:02,228 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:18:02,228 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:18:02,229 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:18:02,229 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:18:02,230 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:18:02,230 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:18:02,231 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:18:02,231 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:18:34,403 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:19:00,885 | INFO     | setup Admin cog
+2026-05-10 00:19:00,891 | INFO     | Admin Cog загружен
+2026-05-10 00:19:02,263 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:19:02,467 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:19:02,469 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:19:03,417 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:19:05,067 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:19:08,632 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:19:08,633 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:19:08,633 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:19:08,633 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:19:08,634 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:19:08,634 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:19:08,634 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:19:08,635 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 00:19:27,093 | INFO     | voice mute kraken_5491 4с
+2026-05-10 00:19:27,094 | DEBUG    | parse_time: value=4, unit=с
+2026-05-10 00:19:27,467 | SUCCESS  | voice mute kraken_5491 4s
+2026-05-10 00:19:32,175 | INFO     | auto unmute kraken_5491
+2026-05-10 00:19:42,294 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 00:47:30,331 | INFO     | setup Admin cog
+2026-05-10 00:47:30,332 | INFO     | Admin Cog загружен
+2026-05-10 00:47:32,478 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:47:32,705 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 00:47:32,708 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 00:47:33,678 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 00:47:35,115 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 00:47:38,619 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:47:38,621 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 00:47:38,621 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 00:47:38,622 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 00:47:38,622 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 00:47:38,622 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 00:47:38,623 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 00:47:38,623 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 08:45:07,605 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 08:45:21,434 | INFO     | setup Admin cog
+2026-05-10 08:45:21,436 | INFO     | Admin Cog загружен
+2026-05-10 08:45:23,806 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:45:24,053 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:45:24,054 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 08:45:24,800 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 08:45:25,875 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 08:45:29,468 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:45:29,469 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:45:29,469 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 08:45:29,470 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 08:45:29,470 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 08:45:29,470 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 08:45:29,471 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 08:45:29,471 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 08:46:41,265 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 08:46:51,809 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:46:52,133 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:46:52,134 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 08:46:52,829 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 08:46:53,720 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 08:46:57,076 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:46:57,077 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:46:57,077 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 08:46:57,077 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 08:46:57,078 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 08:46:57,078 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 08:46:57,078 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 08:46:57,079 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 08:47:15,960 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 08:47:51,908 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:47:52,109 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:47:52,110 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 08:47:53,237 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 08:47:54,502 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 08:47:57,922 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:47:57,922 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:47:57,923 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 08:47:57,923 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 08:47:57,924 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 08:47:57,924 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 08:47:57,925 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 08:47:57,925 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 3
+2026-05-10 08:48:15,332 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-10 08:48:15,803 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-10 08:48:16,019 | INFO     | ✅ Отправлено приветствие infinite_5491 (1263265959851065528)
+2026-05-10 08:48:16,325 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-10 08:49:00,917 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 08:49:12,858 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:49:13,058 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:49:13,060 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 08:49:14,009 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 08:49:15,156 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 08:49:18,499 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:49:18,499 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:49:18,500 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 08:49:18,500 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 08:49:18,501 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 08:49:18,501 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 08:49:18,502 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 08:49:18,502 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-10 08:49:28,660 | INFO     | infinite_5491 (1263265959851065528) вышел [leave]
+2026-05-10 08:49:29,293 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-10 08:49:29,512 | INFO     | ✅ Уход infinite_5491 (1263265959851065528) [leave]
+2026-05-10 08:49:29,746 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-10 08:49:36,373 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-10 08:49:36,733 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-10 08:49:37,035 | INFO     | ✅ Отправлено приветствие infinite_5491 (1263265959851065528)
+2026-05-10 08:49:37,344 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-10 08:49:56,337 | WARNING  | Роль 1418038359129063585 не найдена на Тест сервер
+2026-05-10 08:50:07,191 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 08:54:15,504 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:54:15,726 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 08:54:15,728 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 08:54:16,467 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 08:54:17,381 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 08:54:20,801 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:54:20,802 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 08:54:20,802 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 08:54:20,802 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 08:54:20,803 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 08:54:20,803 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 08:54:20,804 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 08:54:20,804 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-10 08:54:31,962 | INFO     | infinite_5491 (1263265959851065528) вышел [leave]
+2026-05-10 08:54:32,268 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-10 08:54:32,483 | INFO     | ✅ Уход infinite_5491 (1263265959851065528) [leave]
+2026-05-10 08:54:32,721 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-10 08:54:40,565 | INFO     | infinite_5491 (1263265959851065528) зашёл на сервер Тест сервер
+2026-05-10 08:54:41,035 | INFO     | Webhook создан: загальний (1448692484950462642)
+2026-05-10 08:54:41,258 | INFO     | ✅ Отправлено приветствие infinite_5491 (1263265959851065528)
+2026-05-10 08:54:41,567 | INFO     | Webhook удалён: загальний (1448692484950462642)
+2026-05-10 08:55:12,116 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 09:38:15,279 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 09:38:15,495 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 09:38:15,496 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 09:38:16,409 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 09:38:17,449 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 09:38:22,032 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 09:38:22,033 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 09:38:22,033 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 09:38:22,034 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 09:38:22,034 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 09:38:22,034 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 09:38:22,035 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 09:38:22,035 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-10 10:00:22,653 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-10 16:51:48,138 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-10 16:52:35,290 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-10 16:52:51,309 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-10 20:31:15,407 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 20:31:15,629 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 20:31:15,631 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 20:31:17,195 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 20:31:21,410 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 20:31:25,217 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 20:31:25,218 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 20:31:25,218 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 20:31:25,219 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 20:31:25,219 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 20:31:25,220 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 20:31:25,221 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 20:31:25,222 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-10 20:31:34,799 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-05-10 20:31:55,916 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/active_duels?select=%2A "HTTP/2 200 OK"
+2026-05-10 20:31:56,114 | INFO     | HTTP Request: GET https://jqphrrikzkntcyzsrbrc.supabase.co/rest/v1/duel_stats?select=%2A "HTTP/2 200 OK"
+2026-05-10 20:31:56,116 | INFO     | ✅ Данные из Supabase загружены
+2026-05-10 20:31:57,409 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-05-10 20:31:59,051 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-05-10 20:32:03,560 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 20:32:03,560 | INFO     | ⏳ Бот готов, циклы запущены
+2026-05-10 20:32:03,562 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-05-10 20:32:03,562 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 55
+2026-05-10 20:32:03,563 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 259
+2026-05-10 20:32:03,564 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-05-10 20:32:03,564 | INFO     | 🛡 Сервер: Legion of Iron Hands | ID: 1411434026966716428 | Участников: 5
+2026-05-10 20:32:03,576 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-05-10 20:32:03,580 | INFO     | ⚔️ 20:30 — старт уведомления
+2026-05-10 20:32:03,582 | INFO     | 📩 Рассылка: ⚔️ Сетка КВ началась!
+2026-05-10 20:32:04,301 | DEBUG    | 📨 DM → .rauzor
+2026-05-10 20:32:05,272 | DEBUG    | 📨 DM → artempro009
+2026-05-10 20:32:06,193 | DEBUG    | 📨 DM → minikyozm
+2026-05-10 20:32:07,093 | DEBUG    | 📨 DM → nanax23
+2026-05-10 20:32:08,026 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-10 20:32:09,220 | DEBUG    | 📨 DM → big_tokin
+2026-05-10 20:32:10,576 | DEBUG    | 📨 DM → boba5484
+2026-05-10 20:32:11,385 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-10 20:32:12,486 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-10 20:32:13,403 | DEBUG    | 📨 DM → liusyk
+2026-05-10 20:32:14,741 | DEBUG    | 📨 DM → shiresotay
+2026-05-10 20:32:15,622 | DEBUG    | 📨 DM → d._sterben
+2026-05-10 20:32:16,453 | DEBUG    | 📨 DM → helloniger7557
+2026-05-10 20:32:17,406 | DEBUG    | 📨 DM → zeduni._.
+2026-05-10 20:32:18,328 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-10 20:32:19,062 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:32:20,434 | DEBUG    | 📨 DM → voscing
+2026-05-10 20:32:21,506 | DEBUG    | 📨 DM → 45387
+2026-05-10 20:32:22,558 | DEBUG    | 📨 DM → gi3na
+2026-05-10 20:32:23,428 | DEBUG    | 📨 DM → poseidonskiytynka
+2026-05-10 20:32:24,318 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:32:24,875 | DEBUG    | 📨 DM → abscvr
+2026-05-10 20:32:25,963 | DEBUG    | 📨 DM → dsdaynebanu
+2026-05-10 20:32:26,828 | DEBUG    | 📨 DM → divakin661
+2026-05-10 20:32:28,054 | DEBUG    | 📨 DM → ttarkeq
+2026-05-10 20:32:30,489 | DEBUG    | 📨 DM → fudokido
+2026-05-10 20:32:31,768 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-10 20:32:32,604 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:32:33,202 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-10 20:32:34,300 | DEBUG    | 📨 DM → ww_hudson
+2026-05-10 20:32:35,141 | DEBUG    | 📨 DM → 38129
+2026-05-10 20:32:36,152 | DEBUG    | 📨 DM → kraken_5491
+2026-05-10 20:32:37,700 | DEBUG    | 📨 DM → biruwka1_62224
+2026-05-10 20:32:38,687 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-10 20:50:03,567 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-10 20:50:03,568 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-10 20:50:04,033 | DEBUG    | 📨 DM → .rauzor
+2026-05-10 20:50:04,758 | DEBUG    | 📨 DM → artempro009
+2026-05-10 20:50:05,377 | DEBUG    | 📨 DM → minikyozm
+2026-05-10 20:50:06,092 | DEBUG    | 📨 DM → nanax23
+2026-05-10 20:50:06,809 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-10 20:50:07,637 | DEBUG    | 📨 DM → big_tokin
+2026-05-10 20:50:08,326 | DEBUG    | 📨 DM → boba5484
+2026-05-10 20:50:08,973 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-10 20:50:09,641 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-10 20:50:10,257 | DEBUG    | 📨 DM → liusyk
+2026-05-10 20:50:11,101 | DEBUG    | 📨 DM → shiresotay
+2026-05-10 20:50:11,723 | DEBUG    | 📨 DM → d._sterben
+2026-05-10 20:50:12,333 | DEBUG    | 📨 DM → helloniger7557
+2026-05-10 20:50:12,972 | DEBUG    | 📨 DM → zeduni._.
+2026-05-10 20:50:13,760 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-10 20:50:14,262 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:50:14,603 | DEBUG    | 📨 DM → voscing
+2026-05-10 20:50:15,211 | DEBUG    | 📨 DM → 45387
+2026-05-10 20:50:15,785 | DEBUG    | 📨 DM → gi3na
+2026-05-10 20:50:16,335 | DEBUG    | 📨 DM → poseidonskiytynka
+2026-05-10 20:50:16,889 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:50:17,158 | DEBUG    | 📨 DM → abscvr
+2026-05-10 20:50:17,978 | DEBUG    | 📨 DM → dsdaynebanu
+2026-05-10 20:50:18,573 | DEBUG    | 📨 DM → divakin661
+2026-05-10 20:50:19,361 | DEBUG    | 📨 DM → ttarkeq
+2026-05-10 20:50:20,012 | DEBUG    | 📨 DM → fudokido
+2026-05-10 20:50:20,720 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-10 20:50:21,246 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 20:50:21,914 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-10 20:50:22,572 | DEBUG    | 📨 DM → ww_hudson
+2026-05-10 20:50:23,165 | DEBUG    | 📨 DM → 38129
+2026-05-10 20:50:25,341 | DEBUG    | 📨 DM → kraken_5491
+2026-05-10 20:50:26,043 | DEBUG    | 📨 DM → biruwka1_62224
+2026-05-10 20:50:26,670 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-10 21:00:03,556 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-10 21:00:03,557 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-10 21:00:04,370 | DEBUG    | 📨 DM → .rauzor
+2026-05-10 21:00:05,091 | DEBUG    | 📨 DM → artempro009
+2026-05-10 21:00:05,723 | DEBUG    | 📨 DM → minikyozm
+2026-05-10 21:00:06,829 | DEBUG    | 📨 DM → nanax23
+2026-05-10 21:00:07,740 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-10 21:00:09,092 | DEBUG    | 📨 DM → big_tokin
+2026-05-10 21:00:09,869 | DEBUG    | 📨 DM → boba5484
+2026-05-10 21:00:10,717 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-10 21:00:11,344 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-10 21:00:12,123 | DEBUG    | 📨 DM → liusyk
+2026-05-10 21:00:12,766 | DEBUG    | 📨 DM → shiresotay
+2026-05-10 21:00:13,424 | DEBUG    | 📨 DM → d._sterben
+2026-05-10 21:00:14,126 | DEBUG    | 📨 DM → helloniger7557
+2026-05-10 21:00:14,743 | DEBUG    | 📨 DM → zeduni._.
+2026-05-10 21:00:15,451 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-10 21:00:16,032 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 21:00:16,331 | DEBUG    | 📨 DM → voscing
+2026-05-10 21:00:17,340 | DEBUG    | 📨 DM → 45387
+2026-05-10 21:00:18,384 | DEBUG    | 📨 DM → gi3na
+2026-05-10 21:00:19,049 | DEBUG    | 📨 DM → poseidonskiytynka
+2026-05-10 21:00:19,618 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 21:00:20,075 | DEBUG    | 📨 DM → abscvr
+2026-05-10 21:00:20,733 | DEBUG    | 📨 DM → dsdaynebanu
+2026-05-10 21:00:21,587 | DEBUG    | 📨 DM → divakin661
+2026-05-10 21:00:22,390 | DEBUG    | 📨 DM → ttarkeq
+2026-05-10 21:00:23,040 | DEBUG    | 📨 DM → fudokido
+2026-05-10 21:00:23,711 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-10 21:00:24,309 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-10 21:00:24,695 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-10 21:00:25,280 | DEBUG    | 📨 DM → ww_hudson
+2026-05-10 21:00:25,962 | DEBUG    | 📨 DM → 38129
+2026-05-10 21:00:26,575 | DEBUG    | 📨 DM → kraken_5491
+2026-05-10 21:00:27,249 | DEBUG    | 📨 DM → biruwka1_62224
+2026-05-10 21:00:27,981 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-11 10:00:04,322 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-11 13:08:29,197 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-11 14:21:52,538 | INFO     | tigr_228 (498930420511932417) зашёл на сервер Legion Of The Damned
+2026-05-11 14:21:53,111 | INFO     | Webhook создан: 💬чат-канал💬 (1400948760632098816)
+2026-05-11 14:21:53,394 | INFO     | ✅ Отправлено приветствие tigr_228 (498930420511932417)
+2026-05-11 14:21:53,760 | INFO     | Webhook удалён: 💬чат-канал💬 (1400948760632098816)
+2026-05-11 14:22:06,947 | INFO     | ЛС отправлено Тигр
+2026-05-11 14:25:16,742 | SUCCESS  | Создан временный войс: - |🔊Вокс Тигр🔊| - (tigr_228)
+2026-05-11 14:25:23,729 | SUCCESS  | Удалён пустой войс: 1503357329918267482
+2026-05-11 20:01:36,401 | INFO     | sergeyflow (843529884645982238) зашёл на сервер Legion Of The Damned
+2026-05-11 20:01:39,500 | INFO     | Webhook создан: 💬чат-канал💬 (1400948760632098816)
+2026-05-11 20:01:39,962 | INFO     | ✅ Отправлено приветствие sergeyflow (843529884645982238)
+2026-05-11 20:01:40,293 | INFO     | Webhook удалён: 💬чат-канал💬 (1400948760632098816)
+2026-05-11 20:01:59,923 | INFO     | ЛС отправлено Segij_Flov
+2026-05-11 20:32:03,573 | INFO     | ⚔️ 20:30 — старт уведомления
+2026-05-11 20:32:03,574 | INFO     | 📩 Рассылка: ⚔️ Сетка КВ началась!
+2026-05-11 20:32:04,267 | DEBUG    | 📨 DM → .rauzor
+2026-05-11 20:32:04,870 | DEBUG    | 📨 DM → artempro009
+2026-05-11 20:32:05,668 | DEBUG    | 📨 DM → minikyozm
+2026-05-11 20:32:06,416 | DEBUG    | 📨 DM → nanax23
+2026-05-11 20:32:08,829 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-11 20:32:09,732 | DEBUG    | 📨 DM → big_tokin
+2026-05-11 20:32:10,355 | DEBUG    | 📨 DM → boba5484
+2026-05-11 20:32:13,037 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-11 20:32:13,642 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-11 20:32:14,289 | DEBUG    | 📨 DM → liusyk
+2026-05-11 20:32:14,956 | DEBUG    | 📨 DM → shiresotay
+2026-05-11 20:32:15,710 | DEBUG    | 📨 DM → d._sterben
+2026-05-11 20:32:16,387 | DEBUG    | 📨 DM → helloniger7557
+2026-05-11 20:32:17,126 | DEBUG    | 📨 DM → zeduni._.
+2026-05-11 20:32:17,726 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-11 20:32:18,243 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:32:18,669 | DEBUG    | 📨 DM → voscing
+2026-05-11 20:32:19,279 | DEBUG    | 📨 DM → 45387
+2026-05-11 20:32:19,988 | DEBUG    | 📨 DM → gi3na
+2026-05-11 20:32:20,517 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:32:20,730 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:32:21,168 | DEBUG    | 📨 DM → abscvr
+2026-05-11 20:32:21,960 | DEBUG    | 📨 DM → dsdaynebanu
+2026-05-11 20:32:24,582 | DEBUG    | 📨 DM → divakin661
+2026-05-11 20:32:25,425 | DEBUG    | 📨 DM → ttarkeq
+2026-05-11 20:32:26,593 | DEBUG    | 📨 DM → fudokido
+2026-05-11 20:32:27,251 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-11 20:32:27,763 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:32:28,131 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-11 20:32:28,815 | DEBUG    | 📨 DM → ww_hudson
+2026-05-11 20:32:30,271 | DEBUG    | 📨 DM → 38129
+2026-05-11 20:32:31,039 | DEBUG    | 📨 DM → kraken_5491
+2026-05-11 20:32:31,961 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-11 20:32:32,585 | DEBUG    | 📨 DM → tigr_228
+2026-05-11 20:32:33,195 | DEBUG    | 📨 DM → sergeyflow
+2026-05-11 20:50:03,562 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-11 20:50:03,563 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-11 20:50:04,142 | DEBUG    | 📨 DM → .rauzor
+2026-05-11 20:50:04,748 | DEBUG    | 📨 DM → artempro009
+2026-05-11 20:50:05,405 | DEBUG    | 📨 DM → minikyozm
+2026-05-11 20:50:06,162 | DEBUG    | 📨 DM → nanax23
+2026-05-11 20:50:06,877 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-11 20:50:07,539 | DEBUG    | 📨 DM → big_tokin
+2026-05-11 20:50:08,273 | DEBUG    | 📨 DM → boba5484
+2026-05-11 20:50:08,879 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-11 20:50:09,886 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-11 20:50:10,531 | DEBUG    | 📨 DM → liusyk
+2026-05-11 20:50:11,224 | DEBUG    | 📨 DM → shiresotay
+2026-05-11 20:50:11,956 | DEBUG    | 📨 DM → d._sterben
+2026-05-11 20:50:12,907 | DEBUG    | 📨 DM → helloniger7557
+2026-05-11 20:50:13,797 | DEBUG    | 📨 DM → zeduni._.
+2026-05-11 20:50:14,478 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-11 20:50:15,010 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:50:15,409 | DEBUG    | 📨 DM → voscing
+2026-05-11 20:50:16,468 | DEBUG    | 📨 DM → 45387
+2026-05-11 20:50:17,238 | DEBUG    | 📨 DM → gi3na
+2026-05-11 20:50:17,880 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:50:18,094 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:50:18,449 | DEBUG    | 📨 DM → abscvr
+2026-05-11 20:50:19,212 | DEBUG    | 📨 DM → dsdaynebanu
+2026-05-11 20:50:19,977 | DEBUG    | 📨 DM → divakin661
+2026-05-11 20:50:20,644 | DEBUG    | 📨 DM → ttarkeq
+2026-05-11 20:50:21,286 | DEBUG    | 📨 DM → fudokido
+2026-05-11 20:50:21,960 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-11 20:50:22,585 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 20:50:22,962 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-11 20:50:23,623 | DEBUG    | 📨 DM → ww_hudson
+2026-05-11 20:50:24,377 | DEBUG    | 📨 DM → 38129
+2026-05-11 20:50:24,997 | DEBUG    | 📨 DM → kraken_5491
+2026-05-11 20:50:25,877 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-11 20:50:26,557 | DEBUG    | 📨 DM → tigr_228
+2026-05-11 20:50:27,312 | DEBUG    | 📨 DM → sergeyflow
+2026-05-11 21:00:03,570 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-11 21:00:03,578 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-11 21:00:04,344 | DEBUG    | 📨 DM → .rauzor
+2026-05-11 21:00:05,364 | DEBUG    | 📨 DM → artempro009
+2026-05-11 21:00:07,449 | DEBUG    | 📨 DM → minikyozm
+2026-05-11 21:00:08,325 | DEBUG    | 📨 DM → nanax23
+2026-05-11 21:00:08,975 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-11 21:00:09,591 | DEBUG    | 📨 DM → big_tokin
+2026-05-11 21:00:10,476 | DEBUG    | 📨 DM → boba5484
+2026-05-11 21:00:11,246 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-11 21:00:12,104 | DEBUG    | 📨 DM → piskastrui0547_56108
+2026-05-11 21:00:12,859 | DEBUG    | 📨 DM → liusyk
+2026-05-11 21:00:13,639 | DEBUG    | 📨 DM → shiresotay
+2026-05-11 21:00:14,526 | DEBUG    | 📨 DM → d._sterben
+2026-05-11 21:00:15,459 | DEBUG    | 📨 DM → helloniger7557
+2026-05-11 21:00:18,769 | DEBUG    | 📨 DM → zeduni._.
+2026-05-11 21:00:19,408 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-11 21:00:19,978 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 21:00:20,366 | DEBUG    | 📨 DM → voscing
+2026-05-11 21:00:21,327 | DEBUG    | 📨 DM → 45387
+2026-05-11 21:00:23,159 | DEBUG    | 📨 DM → gi3na
+2026-05-11 21:00:24,427 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 21:00:24,748 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 21:00:25,408 | DEBUG    | 📨 DM → abscvr
+2026-05-11 21:00:26,028 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 21:00:26,458 | DEBUG    | 📨 DM → divakin661
+2026-05-11 21:00:27,104 | DEBUG    | 📨 DM → ttarkeq
+2026-05-11 21:00:27,871 | DEBUG    | 📨 DM → fudokido
+2026-05-11 21:00:28,892 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-11 21:00:29,495 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-11 21:00:29,989 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-11 21:00:30,807 | DEBUG    | 📨 DM → ww_hudson
+2026-05-11 21:00:31,457 | DEBUG    | 📨 DM → 38129
+2026-05-11 21:00:32,146 | DEBUG    | 📨 DM → kraken_5491
+2026-05-11 21:00:32,842 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-11 21:00:33,457 | DEBUG    | 📨 DM → tigr_228
+2026-05-11 21:00:34,611 | DEBUG    | 📨 DM → sergeyflow
+2026-05-12 10:00:04,555 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-12 19:40:59,359 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-12 19:47:11,190 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-12 20:32:03,563 | INFO     | ⚔️ 20:30 — старт уведомления
+2026-05-12 20:32:03,570 | INFO     | 📩 Рассылка: ⚔️ Сетка КВ началась!
+2026-05-12 20:32:04,283 | DEBUG    | 📨 DM → .rauzor
+2026-05-12 20:32:04,906 | DEBUG    | 📨 DM → artempro009
+2026-05-12 20:32:05,654 | DEBUG    | 📨 DM → minikyozm
+2026-05-12 20:32:06,325 | DEBUG    | 📨 DM → nanax23
+2026-05-12 20:32:07,008 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-12 20:32:07,749 | DEBUG    | 📨 DM → big_tokin
+2026-05-12 20:32:08,471 | DEBUG    | 📨 DM → boba5484
+2026-05-12 20:32:09,214 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-12 20:32:09,773 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:10,157 | DEBUG    | 📨 DM → liusyk
+2026-05-12 20:32:11,147 | DEBUG    | 📨 DM → shiresotay
+2026-05-12 20:32:11,815 | DEBUG    | 📨 DM → d._sterben
+2026-05-12 20:32:12,591 | DEBUG    | 📨 DM → helloniger7557
+2026-05-12 20:32:13,339 | DEBUG    | 📨 DM → zeduni._.
+2026-05-12 20:32:14,303 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-12 20:32:14,853 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:15,193 | DEBUG    | 📨 DM → voscing
+2026-05-12 20:32:15,863 | DEBUG    | 📨 DM → 45387
+2026-05-12 20:32:16,960 | DEBUG    | 📨 DM → gi3na
+2026-05-12 20:32:17,477 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:17,792 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:18,163 | DEBUG    | 📨 DM → abscvr
+2026-05-12 20:32:18,709 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:19,062 | DEBUG    | 📨 DM → divakin661
+2026-05-12 20:32:19,744 | DEBUG    | 📨 DM → ttarkeq
+2026-05-12 20:32:20,279 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:20,582 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-12 20:32:21,104 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:32:21,411 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-12 20:32:22,320 | DEBUG    | 📨 DM → ww_hudson
+2026-05-12 20:32:23,043 | DEBUG    | 📨 DM → 38129
+2026-05-12 20:32:23,646 | DEBUG    | 📨 DM → kraken_5491
+2026-05-12 20:32:24,308 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-12 20:32:24,894 | DEBUG    | 📨 DM → tigr_228
+2026-05-12 20:32:25,779 | DEBUG    | 📨 DM → sergeyflow
+2026-05-12 20:50:03,560 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-12 20:50:03,561 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-12 20:50:03,983 | DEBUG    | 📨 DM → .rauzor
+2026-05-12 20:50:04,680 | DEBUG    | 📨 DM → artempro009
+2026-05-12 20:50:05,521 | DEBUG    | 📨 DM → minikyozm
+2026-05-12 20:50:06,264 | DEBUG    | 📨 DM → nanax23
+2026-05-12 20:50:06,915 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-12 20:50:07,531 | DEBUG    | 📨 DM → big_tokin
+2026-05-12 20:50:08,204 | DEBUG    | 📨 DM → boba5484
+2026-05-12 20:50:08,855 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-12 20:50:09,431 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:11,530 | DEBUG    | 📨 DM → liusyk
+2026-05-12 20:50:12,263 | DEBUG    | 📨 DM → shiresotay
+2026-05-12 20:50:12,796 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:13,499 | DEBUG    | 📨 DM → helloniger7557
+2026-05-12 20:50:14,346 | DEBUG    | 📨 DM → zeduni._.
+2026-05-12 20:50:14,948 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-12 20:50:15,527 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:15,927 | DEBUG    | 📨 DM → voscing
+2026-05-12 20:50:16,836 | DEBUG    | 📨 DM → 45387
+2026-05-12 20:50:17,665 | DEBUG    | 📨 DM → gi3na
+2026-05-12 20:50:18,212 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:18,480 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:18,895 | DEBUG    | 📨 DM → abscvr
+2026-05-12 20:50:19,443 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:19,760 | DEBUG    | 📨 DM → divakin661
+2026-05-12 20:50:20,577 | DEBUG    | 📨 DM → ttarkeq
+2026-05-12 20:50:21,523 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:21,879 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-12 20:50:22,683 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 20:50:22,984 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-12 20:50:23,729 | DEBUG    | 📨 DM → ww_hudson
+2026-05-12 20:50:24,347 | DEBUG    | 📨 DM → 38129
+2026-05-12 20:50:24,965 | DEBUG    | 📨 DM → kraken_5491
+2026-05-12 20:50:25,615 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-12 20:50:26,329 | DEBUG    | 📨 DM → tigr_228
+2026-05-12 20:50:26,913 | DEBUG    | 📨 DM → sergeyflow
+2026-05-12 20:59:22,971 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-12 21:00:03,560 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-12 21:00:03,560 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-12 21:00:04,099 | DEBUG    | 📨 DM → .rauzor
+2026-05-12 21:00:04,879 | DEBUG    | 📨 DM → artempro009
+2026-05-12 21:00:06,771 | DEBUG    | 📨 DM → minikyozm
+2026-05-12 21:00:07,447 | DEBUG    | 📨 DM → nanax23
+2026-05-12 21:00:08,096 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-12 21:00:08,951 | DEBUG    | 📨 DM → big_tokin
+2026-05-12 21:00:09,716 | DEBUG    | 📨 DM → boba5484
+2026-05-12 21:00:11,012 | WARNING  | ❌ Не удалось отправить DM teshekular_46636: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:11,281 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:12,129 | DEBUG    | 📨 DM → liusyk
+2026-05-12 21:00:13,112 | DEBUG    | 📨 DM → shiresotay
+2026-05-12 21:00:13,650 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:13,998 | DEBUG    | 📨 DM → helloniger7557
+2026-05-12 21:00:14,713 | DEBUG    | 📨 DM → zeduni._.
+2026-05-12 21:00:15,316 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-12 21:00:15,919 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:16,210 | DEBUG    | 📨 DM → voscing
+2026-05-12 21:00:16,835 | DEBUG    | 📨 DM → 45387
+2026-05-12 21:00:17,446 | DEBUG    | 📨 DM → gi3na
+2026-05-12 21:00:17,979 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:18,230 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:19,121 | DEBUG    | 📨 DM → abscvr
+2026-05-12 21:00:19,718 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:20,454 | DEBUG    | 📨 DM → divakin661
+2026-05-12 21:00:21,277 | DEBUG    | 📨 DM → ttarkeq
+2026-05-12 21:00:21,801 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:22,131 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-12 21:00:22,696 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-12 21:00:23,291 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-12 21:00:24,029 | DEBUG    | 📨 DM → ww_hudson
+2026-05-12 21:00:24,634 | DEBUG    | 📨 DM → 38129
+2026-05-12 21:00:25,480 | DEBUG    | 📨 DM → kraken_5491
+2026-05-12 21:00:26,271 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-12 21:00:26,963 | DEBUG    | 📨 DM → tigr_228
+2026-05-12 21:00:27,690 | DEBUG    | 📨 DM → sergeyflow
+2026-05-12 21:02:29,436 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-13 10:00:04,504 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-13 20:32:03,559 | INFO     | ⚔️ 20:30 — старт уведомления
+2026-05-13 20:32:03,563 | INFO     | 📩 Рассылка: ⚔️ Сетка КВ началась!
+2026-05-13 20:32:04,440 | DEBUG    | 📨 DM → .rauzor
+2026-05-13 20:32:05,257 | DEBUG    | 📨 DM → artempro009
+2026-05-13 20:32:06,001 | DEBUG    | 📨 DM → minikyozm
+2026-05-13 20:32:06,602 | DEBUG    | 📨 DM → nanax23
+2026-05-13 20:32:07,217 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-13 20:32:07,907 | DEBUG    | 📨 DM → big_tokin
+2026-05-13 20:32:10,467 | DEBUG    | 📨 DM → boba5484
+2026-05-13 20:32:11,159 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-13 20:32:11,675 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:12,043 | DEBUG    | 📨 DM → liusyk
+2026-05-13 20:32:12,808 | DEBUG    | 📨 DM → shiresotay
+2026-05-13 20:32:13,313 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:13,730 | DEBUG    | 📨 DM → helloniger7557
+2026-05-13 20:32:14,378 | DEBUG    | 📨 DM → zeduni._.
+2026-05-13 20:32:14,998 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-13 20:32:15,761 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:16,336 | DEBUG    | 📨 DM → voscing
+2026-05-13 20:32:16,980 | DEBUG    | 📨 DM → 45387
+2026-05-13 20:32:17,661 | DEBUG    | 📨 DM → gi3na
+2026-05-13 20:32:18,169 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:18,387 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:18,762 | DEBUG    | 📨 DM → abscvr
+2026-05-13 20:32:19,487 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:19,818 | DEBUG    | 📨 DM → divakin661
+2026-05-13 20:32:20,495 | DEBUG    | 📨 DM → ttarkeq
+2026-05-13 20:32:21,044 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:21,425 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-13 20:32:21,973 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:32:22,445 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-13 20:32:23,243 | DEBUG    | 📨 DM → ww_hudson
+2026-05-13 20:32:23,993 | DEBUG    | 📨 DM → 38129
+2026-05-13 20:32:24,757 | DEBUG    | 📨 DM → kraken_5491
+2026-05-13 20:32:25,466 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-13 20:32:26,205 | DEBUG    | 📨 DM → tigr_228
+2026-05-13 20:32:26,942 | DEBUG    | 📨 DM → sergeyflow
+2026-05-13 20:50:03,563 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-13 20:50:03,564 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-13 20:50:03,986 | DEBUG    | 📨 DM → .rauzor
+2026-05-13 20:50:04,591 | DEBUG    | 📨 DM → artempro009
+2026-05-13 20:50:05,192 | DEBUG    | 📨 DM → minikyozm
+2026-05-13 20:50:05,977 | DEBUG    | 📨 DM → nanax23
+2026-05-13 20:50:06,742 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-13 20:50:07,333 | DEBUG    | 📨 DM → big_tokin
+2026-05-13 20:50:08,135 | DEBUG    | 📨 DM → boba5484
+2026-05-13 20:50:08,819 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-13 20:50:09,455 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:09,837 | DEBUG    | 📨 DM → liusyk
+2026-05-13 20:50:10,495 | DEBUG    | 📨 DM → shiresotay
+2026-05-13 20:50:11,002 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:11,394 | DEBUG    | 📨 DM → helloniger7557
+2026-05-13 20:50:12,039 | DEBUG    | 📨 DM → zeduni._.
+2026-05-13 20:50:12,661 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-13 20:50:13,193 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:15,089 | DEBUG    | 📨 DM → voscing
+2026-05-13 20:50:15,729 | DEBUG    | 📨 DM → 45387
+2026-05-13 20:50:16,421 | DEBUG    | 📨 DM → gi3na
+2026-05-13 20:50:16,946 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:17,179 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:17,586 | DEBUG    | 📨 DM → abscvr
+2026-05-13 20:50:18,387 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:19,522 | DEBUG    | 📨 DM → divakin661
+2026-05-13 20:50:20,452 | DEBUG    | 📨 DM → ttarkeq
+2026-05-13 20:50:20,994 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:21,320 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-13 20:50:21,863 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 20:50:22,610 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-13 20:50:23,471 | DEBUG    | 📨 DM → ww_hudson
+2026-05-13 20:50:24,099 | DEBUG    | 📨 DM → 38129
+2026-05-13 20:50:24,885 | DEBUG    | 📨 DM → kraken_5491
+2026-05-13 20:50:25,543 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-13 20:50:26,145 | DEBUG    | 📨 DM → tigr_228
+2026-05-13 20:50:26,717 | DEBUG    | 📨 DM → sergeyflow
+2026-05-13 21:00:03,561 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-13 21:00:03,562 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-13 21:00:03,978 | DEBUG    | 📨 DM → .rauzor
+2026-05-13 21:00:04,892 | DEBUG    | 📨 DM → artempro009
+2026-05-13 21:00:06,065 | DEBUG    | 📨 DM → minikyozm
+2026-05-13 21:00:06,763 | DEBUG    | 📨 DM → nanax23
+2026-05-13 21:00:09,647 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-13 21:00:10,313 | DEBUG    | 📨 DM → big_tokin
+2026-05-13 21:00:11,336 | DEBUG    | 📨 DM → boba5484
+2026-05-13 21:00:11,985 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-13 21:00:12,527 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:12,983 | DEBUG    | 📨 DM → liusyk
+2026-05-13 21:00:13,997 | DEBUG    | 📨 DM → shiresotay
+2026-05-13 21:00:14,565 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:15,341 | DEBUG    | 📨 DM → helloniger7557
+2026-05-13 21:00:15,994 | DEBUG    | 📨 DM → zeduni._.
+2026-05-13 21:00:16,716 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-13 21:00:17,285 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:18,119 | DEBUG    | 📨 DM → voscing
+2026-05-13 21:00:18,761 | DEBUG    | 📨 DM → 45387
+2026-05-13 21:00:19,364 | DEBUG    | 📨 DM → gi3na
+2026-05-13 21:00:19,944 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:20,167 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:20,784 | DEBUG    | 📨 DM → abscvr
+2026-05-13 21:00:21,500 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:22,064 | DEBUG    | 📨 DM → divakin661
+2026-05-13 21:00:22,701 | DEBUG    | 📨 DM → ttarkeq
+2026-05-13 21:00:23,217 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:23,627 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-13 21:00:24,298 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-13 21:00:24,849 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-13 21:00:25,511 | DEBUG    | 📨 DM → ww_hudson
+2026-05-13 21:00:26,464 | DEBUG    | 📨 DM → 38129
+2026-05-13 21:00:27,184 | DEBUG    | 📨 DM → kraken_5491
+2026-05-13 21:00:27,828 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-13 21:00:28,400 | DEBUG    | 📨 DM → tigr_228
+2026-05-13 21:00:29,033 | DEBUG    | 📨 DM → sergeyflow
+2026-05-14 07:02:08,182 | WARNING  | Роль 1418038359129063585 не найдена на Space_Marine 2RU
+2026-05-14 10:00:04,962 | INFO     | 📢 Ежедневный embed отправлен
+2026-05-14 20:32:03,574 | INFO     | ⚔️ 20:30 — старт уведомления
+2026-05-14 20:32:03,583 | INFO     | 📩 Рассылка: ⚔️ Сетка КВ началась!
+2026-05-14 20:32:04,056 | DEBUG    | 📨 DM → .rauzor
+2026-05-14 20:32:04,641 | DEBUG    | 📨 DM → artempro009
+2026-05-14 20:32:05,372 | DEBUG    | 📨 DM → minikyozm
+2026-05-14 20:32:05,975 | DEBUG    | 📨 DM → nanax23
+2026-05-14 20:32:07,193 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-14 20:32:08,263 | DEBUG    | 📨 DM → big_tokin
+2026-05-14 20:32:09,342 | DEBUG    | 📨 DM → boba5484
+2026-05-14 20:32:09,950 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-14 20:32:10,456 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:10,710 | DEBUG    | 📨 DM → liusyk
+2026-05-14 20:32:11,567 | DEBUG    | 📨 DM → shiresotay
+2026-05-14 20:32:12,093 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:12,497 | DEBUG    | 📨 DM → helloniger7557
+2026-05-14 20:32:13,165 | DEBUG    | 📨 DM → zeduni._.
+2026-05-14 20:32:13,741 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-14 20:32:14,998 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:15,628 | DEBUG    | 📨 DM → voscing
+2026-05-14 20:32:16,279 | DEBUG    | 📨 DM → 45387
+2026-05-14 20:32:16,964 | DEBUG    | 📨 DM → gi3na
+2026-05-14 20:32:17,522 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:17,754 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:18,097 | DEBUG    | 📨 DM → abscvr
+2026-05-14 20:32:18,608 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:19,008 | DEBUG    | 📨 DM → divakin661
+2026-05-14 20:32:19,797 | DEBUG    | 📨 DM → ttarkeq
+2026-05-14 20:32:20,356 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:20,691 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-14 20:32:21,221 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:32:21,479 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-14 20:32:22,320 | DEBUG    | 📨 DM → ww_hudson
+2026-05-14 20:32:22,895 | DEBUG    | 📨 DM → 38129
+2026-05-14 20:32:23,867 | DEBUG    | 📨 DM → kraken_5491
+2026-05-14 20:32:24,511 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-14 20:32:25,176 | DEBUG    | 📨 DM → tigr_228
+2026-05-14 20:32:26,038 | DEBUG    | 📨 DM → sergeyflow
+2026-05-14 20:50:03,557 | INFO     | ⏳ 20:50 — уведомление 10 минут
+2026-05-14 20:50:03,558 | INFO     | 📩 Рассылка: ⏳ До начала КВ осталось 10 минут!
+2026-05-14 20:50:04,234 | DEBUG    | 📨 DM → .rauzor
+2026-05-14 20:50:04,968 | DEBUG    | 📨 DM → artempro009
+2026-05-14 20:50:05,552 | DEBUG    | 📨 DM → minikyozm
+2026-05-14 20:50:06,127 | DEBUG    | 📨 DM → nanax23
+2026-05-14 20:50:06,753 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-14 20:50:07,449 | DEBUG    | 📨 DM → big_tokin
+2026-05-14 20:50:08,220 | DEBUG    | 📨 DM → boba5484
+2026-05-14 20:50:08,868 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-14 20:50:09,454 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:09,838 | DEBUG    | 📨 DM → liusyk
+2026-05-14 20:50:10,536 | DEBUG    | 📨 DM → shiresotay
+2026-05-14 20:50:11,072 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:11,489 | DEBUG    | 📨 DM → helloniger7557
+2026-05-14 20:50:12,321 | DEBUG    | 📨 DM → zeduni._.
+2026-05-14 20:50:12,907 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-14 20:50:13,459 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:13,751 | DEBUG    | 📨 DM → voscing
+2026-05-14 20:50:14,386 | DEBUG    | 📨 DM → 45387
+2026-05-14 20:50:15,007 | DEBUG    | 📨 DM → gi3na
+2026-05-14 20:50:15,558 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:15,803 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:16,568 | DEBUG    | 📨 DM → abscvr
+2026-05-14 20:50:17,100 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:17,450 | DEBUG    | 📨 DM → divakin661
+2026-05-14 20:50:18,012 | DEBUG    | 📨 DM → ttarkeq
+2026-05-14 20:50:18,665 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:18,961 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-14 20:50:19,474 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 20:50:19,778 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-14 20:50:20,386 | DEBUG    | 📨 DM → ww_hudson
+2026-05-14 20:50:20,950 | DEBUG    | 📨 DM → 38129
+2026-05-14 20:50:21,607 | DEBUG    | 📨 DM → kraken_5491
+2026-05-14 20:50:22,792 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-14 20:50:23,358 | DEBUG    | 📨 DM → tigr_228
+2026-05-14 20:50:23,966 | DEBUG    | 📨 DM → sergeyflow
+2026-05-14 21:00:03,565 | INFO     | 🔥 21:00 — КВ стартовало
+2026-05-14 21:00:03,569 | INFO     | 📩 Рассылка: 🔥 КВ НАЧАЛОСЬ!
+2026-05-14 21:00:04,118 | DEBUG    | 📨 DM → .rauzor
+2026-05-14 21:00:05,505 | DEBUG    | 📨 DM → artempro009
+2026-05-14 21:00:06,189 | DEBUG    | 📨 DM → minikyozm
+2026-05-14 21:00:06,793 | DEBUG    | 📨 DM → nanax23
+2026-05-14 21:00:07,467 | DEBUG    | 📨 DM → masulmanee_1998_35876
+2026-05-14 21:00:08,129 | DEBUG    | 📨 DM → big_tokin
+2026-05-14 21:00:08,737 | DEBUG    | 📨 DM → boba5484
+2026-05-14 21:00:09,512 | DEBUG    | 📨 DM → teshekular_46636
+2026-05-14 21:00:10,222 | WARNING  | ❌ Не удалось отправить DM piskastrui0547_56108: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:10,536 | DEBUG    | 📨 DM → liusyk
+2026-05-14 21:00:11,256 | DEBUG    | 📨 DM → shiresotay
+2026-05-14 21:00:11,801 | WARNING  | ❌ Не удалось отправить DM d._sterben: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:12,075 | DEBUG    | 📨 DM → helloniger7557
+2026-05-14 21:00:12,727 | DEBUG    | 📨 DM → zeduni._.
+2026-05-14 21:00:13,421 | DEBUG    | 📨 DM → andrey_mansory
+2026-05-14 21:00:13,928 | WARNING  | ❌ Не удалось отправить DM karma341: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:14,292 | DEBUG    | 📨 DM → voscing
+2026-05-14 21:00:14,871 | DEBUG    | 📨 DM → 45387
+2026-05-14 21:00:15,960 | DEBUG    | 📨 DM → gi3na
+2026-05-14 21:00:16,509 | WARNING  | ❌ Не удалось отправить DM poseidonskiytynka: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:16,823 | WARNING  | ❌ Не удалось отправить DM orfeyk: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:17,316 | DEBUG    | 📨 DM → abscvr
+2026-05-14 21:00:17,850 | WARNING  | ❌ Не удалось отправить DM dsdaynebanu: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:18,895 | DEBUG    | 📨 DM → divakin661
+2026-05-14 21:00:20,104 | DEBUG    | 📨 DM → ttarkeq
+2026-05-14 21:00:20,739 | WARNING  | ❌ Не удалось отправить DM fudokido: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:21,136 | DEBUG    | 📨 DM → tankist_tolko_natural.
+2026-05-14 21:00:21,646 | WARNING  | ❌ Не удалось отправить DM denchik7897: 403 Forbidden (error code: 50007): Cannot send messages to this user
+2026-05-14 21:00:22,010 | DEBUG    | 📨 DM → _military_4.5.0_corps_
+2026-05-14 21:00:22,654 | DEBUG    | 📨 DM → ww_hudson
+2026-05-14 21:00:23,322 | DEBUG    | 📨 DM → 38129
+2026-05-14 21:00:24,005 | DEBUG    | 📨 DM → kraken_5491
+2026-05-14 21:00:25,072 | DEBUG    | 📨 DM → gfire36_13005
+2026-05-14 21:00:25,933 | DEBUG    | 📨 DM → tigr_228
+2026-05-14 21:00:26,519 | DEBUG    | 📨 DM → sergeyflow
+2026-05-14 23:22:25,929 | WARNING  | 🛑 Запуск остановлен вручную.
