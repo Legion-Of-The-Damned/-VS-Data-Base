@@ -1,0 +1,18 @@
+2026-07-12 02:54:29,406 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
+2026-07-12 02:54:29,885 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-07-12 02:54:29,935 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-07-12 02:54:29,940 | CRITICAL | 🔥 Критическая ошибка при запуске: Cannot connect to host discord.com:443 ssl:default [Name or service not known]
+2026-07-12 02:54:30,017 | ERROR    | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x79f3aa852de0>
+2026-07-12 02:54:46,018 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
+2026-07-12 02:54:46,197 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-07-12 02:54:46,247 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-07-12 02:54:46,251 | CRITICAL | 🔥 Критическая ошибка при запуске: Cannot connect to host discord.com:443 ssl:default [Name or service not known]
+2026-07-12 02:54:46,323 | ERROR    | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x701c42bbb5c0>
+2026-07-12 03:00:19,020 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
+2026-07-12 03:00:19,199 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-07-12 03:00:19,249 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-07-12 03:00:19,253 | CRITICAL | 🔥 Критическая ошибка при запуске: Cannot connect to host discord.com:443 ssl:default [Name or service not known]
+2026-07-12 03:00:19,328 | ERROR    | Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x79a9cf54f5f0>
