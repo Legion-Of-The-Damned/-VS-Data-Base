@@ -1,0 +1,33 @@
+2026-07-23 02:33:56,414 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
+2026-07-23 02:33:56,517 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-07-23 02:33:56,730 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-07-23 02:33:59,982 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-07-23 02:33:59,982 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 60
+2026-07-23 02:33:59,983 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 251
+2026-07-23 02:33:59,983 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-07-23 02:33:59,983 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-07-23 02:34:07,906 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-07-23 02:34:57,848 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-31' coro=<Music.player_loop() done, defined at /home/vscitadel/Документи/Void_Sentinel/cogs/music.py:275> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "/home/vscitadel/Документи/Void_Sentinel/cogs/music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscitadel/Документи/Void_Sentinel/.venv/lib/python3.12/site-packages/discord/player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "/home/vscitadel/Документи/Void_Sentinel/.venv/lib/python3.12/site-packages/discord/player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscitadel/Документи/Void_Sentinel/.venv/lib/python3.12/site-packages/discord/player.py", line 211, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2026-07-23 02:40:19,054 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
+2026-07-23 02:40:19,390 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-07-23 02:40:19,704 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-07-23 02:40:23,309 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-07-23 02:40:23,310 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 60
+2026-07-23 02:40:23,310 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 251
+2026-07-23 02:40:23,310 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 47
+2026-07-23 02:40:23,311 | INFO     | 🛡 Сервер: Тест сервер | ID: 1448692483054632982 | Участников: 4
+2026-07-23 02:40:45,340 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-07-23 02:45:58,020 | SUCCESS  | Удалён пустой войс: 1529634337144832192
