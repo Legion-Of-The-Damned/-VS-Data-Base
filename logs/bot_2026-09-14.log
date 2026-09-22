@@ -1,21 +1,319 @@
-2026-09-14 11:24:04,358 | ERROR    | ⚠️ Ошибка загрузки данных из Supabase: [Errno -2] Name or service not known
-2026-09-14 11:24:04,592 | INFO     | ⚔️ ClanWarNotifications загружен
-2026-09-14 11:24:04,787 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
-2026-09-14 11:24:08,345 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
-2026-09-14 11:24:08,346 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
-2026-09-14 11:24:08,346 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
-2026-09-14 11:24:08,346 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
-2026-09-14 16:01:35,022 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Stalkerokkkkk🔊| - (dovabrias)
-2026-09-14 16:03:22,636 | SUCCESS  | Удалён пустой войс: 1549133025965776937
-2026-09-14 16:09:46,956 | INFO     | newbee0740 (1067339370060853308) зашёл на сервер Legion Of The Damned
-2026-09-14 16:09:47,301 | INFO     | Webhook создан: 💬чат-канал💬 (1400948760632098816)
-2026-09-14 16:09:47,463 | INFO     | ✅ Отправлено приветствие newbee0740 (1067339370060853308)
-2026-09-14 16:09:47,637 | INFO     | Webhook удалён: 💬чат-канал💬 (1400948760632098816)
-2026-09-14 16:11:12,734 | INFO     | newbee0740 (1067339370060853308) вышел [ban]
-2026-09-14 16:11:13,060 | INFO     | Webhook создан: 💬чат-канал💬 (1400948760632098816)
-2026-09-14 16:11:13,334 | INFO     | ✅ Уход newbee0740 (1067339370060853308) [ban]
-2026-09-14 16:11:13,577 | INFO     | Webhook удалён: 💬чат-канал💬 (1400948760632098816)
-2026-09-14 17:01:42,465 | INFO     | pidorussigmhohol_30901 (1195671840182501446) зашёл на сервер Legion Of The Damned
-2026-09-14 17:01:42,796 | INFO     | Webhook создан: 💬чат-канал💬 (1400948760632098816)
-2026-09-14 17:01:42,915 | INFO     | ✅ Отправлено приветствие pidorussigmhohol_30901 (1195671840182501446)
-2026-09-14 17:01:43,093 | INFO     | Webhook удалён: 💬чат-канал💬 (1400948760632098816)
+2026-09-14 15:07:24,657 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:07:25,877 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:07:30,668 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:07:30,673 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:07:30,673 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:07:30,673 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:12:16,587 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:12:18,007 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:12:21,434 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:12:21,435 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:12:21,435 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:12:21,436 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:12:34,680 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:13:30,654 | ERROR    | ❌ ошибка загрузки выходных: Expecting value: line 1 column 1 (char 0)
+2026-09-14 15:13:30,655 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:13:31,441 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:13:35,168 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:13:35,168 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:13:35,169 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:13:35,169 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:14:16,008 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:21:41,457 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:21:42,727 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:21:46,614 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:21:46,616 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:21:46,617 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:21:46,617 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:23:28,700 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-24' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=ClientException('ffmpeg was not found.')>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 211, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: ffmpeg was not found.
+2026-09-14 15:23:41,347 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:25:24,950 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:25:25,736 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:25:29,466 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:25:29,466 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:25:29,466 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:25:29,466 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:25:51,087 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:25:56,536 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:26:35,723 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:26:36,326 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:26:40,800 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:26:40,801 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:26:40,802 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:26:40,803 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:26:54,755 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:27:00,266 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:30:38,296 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:30:39,066 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:30:42,586 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:30:42,586 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:30:42,586 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:30:42,586 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:31:01,749 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:31:05,276 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 15:33:18,489 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:33:19,367 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:33:22,900 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:33:22,900 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:33:22,900 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:33:22,900 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:33:34,260 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:36:52,660 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:36:53,526 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:36:57,900 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:36:57,900 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:36:57,900 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:36:57,900 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:37:08,086 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:37:23,786 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-26' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:40:08,236 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:40:08,986 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:40:12,596 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:40:12,597 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:40:12,597 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:40:12,597 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:40:27,456 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Music.player_loop() done, defined at D:\Хлам\Void-Sentinel\cogs\music.py:275> exception=PermissionError(13, 'Access is denied', None, 5, None)>
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\cogs\music.py", line 309, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 208, in _spawn_process
+    process = subprocess.Popen(args, creationflags=CREATE_NO_WINDOW, **subprocess_kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1538, in _execute_child
+    hp, ht, pid, tid = _winapi.CreateProcess(executable, args,
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 5] Access is denied
+2026-09-14 15:41:09,924 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:41:10,755 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:41:14,355 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:41:14,356 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:41:14,356 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:41:14,356 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:44:28,378 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:44:29,270 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:44:33,733 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:44:33,749 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:44:33,751 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:44:33,752 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 15:45:57,681 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 15:45:58,415 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 15:46:02,274 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 15:46:02,274 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 15:46:02,274 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 15:46:02,274 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 16:28:41,832 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 16:28:42,580 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 16:28:46,434 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 16:28:46,434 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 16:28:46,435 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 16:28:46,435 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 16:35:43,981 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 16:35:45,338 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 16:35:50,185 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 16:35:50,185 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 16:35:50,185 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 16:35:50,185 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:03:42,868 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:03:43,888 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:03:47,738 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:03:47,738 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:03:47,738 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:03:47,738 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:03:56,518 | INFO     | [player_loop] трек: лидак
+2026-09-14 17:03:56,518 | INFO     | [player_loop] url: https://soundcloud.com/sckohai/lidak
+2026-09-14 17:03:56,599 | INFO     | [download] extract_info: url=https://soundcloud.com/sckohai/lidak
+2026-09-14 17:04:23,857 | INFO     | [download] resolved path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_5fbd36db9596.opus
+2026-09-14 17:04:23,862 | INFO     | [player_loop] local_path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_5fbd36db9596.opus
+2026-09-14 17:04:23,868 | INFO     | [player_loop] vc.play OK, is_playing=True
+2026-09-14 17:04:31,458 | WARNING  | [cleanup] не удалось удалить C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_5fbd36db9596.opus: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\KRAKEN~1\\AppData\\Local\\Temp\\voidsent_5fbd36db9596.opus'
+2026-09-14 17:04:35,801 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 17:08:10,653 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:08:11,438 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:08:14,863 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:08:14,863 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:08:14,863 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:08:14,863 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:09:26,389 | INFO     | [player_loop] трек: Райская
+2026-09-14 17:09:26,389 | INFO     | [player_loop] url: https://soundcloud.com/ralikpliei/rajskaya
+2026-09-14 17:09:26,491 | INFO     | [download] extract_info: url=https://soundcloud.com/ralikpliei/rajskaya
+2026-09-14 17:09:45,753 | INFO     | [download] resolved path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_33bcfddd66ad.opus
+2026-09-14 17:09:45,875 | INFO     | [player_loop] local_path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_33bcfddd66ad.opus
+2026-09-14 17:09:46,187 | INFO     | [player_loop] vc.play OK, is_playing=True
+2026-09-14 17:10:23,494 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-09-14 17:11:23,898 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:11:24,638 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:11:28,117 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:11:28,117 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:11:28,117 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:11:28,117 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:12:06,520 | INFO     | [player_loop] трек: Павел Пламенев - Перед казнью
+2026-09-14 17:12:06,520 | INFO     | [player_loop] url: https://soundcloud.com/alexandr-peredkov/pavel-plamenev-pered-kaznyu
+2026-09-14 17:12:06,604 | INFO     | [download] extract_info: url=https://soundcloud.com/alexandr-peredkov/pavel-plamenev-pered-kaznyu
+2026-09-14 17:12:41,901 | INFO     | [download] resolved path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_2621ac2d8122.opus
+2026-09-14 17:12:41,904 | INFO     | [player_loop] local_path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_2621ac2d8122.opus
+2026-09-14 17:12:41,921 | INFO     | [player_loop] vc.play OK, is_playing=True
+2026-09-14 17:13:18,103 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:13:19,501 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:13:23,079 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:13:23,079 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:13:23,080 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:13:23,080 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:16:12,236 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:16:12,995 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:16:16,375 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:16:16,377 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:16:16,378 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:16:16,379 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:16:25,282 | INFO     | [autocomplete] 'Пла' → 1 результатов
+2026-09-14 17:16:26,786 | INFO     | [autocomplete] 'Пламенев' → 1 результатов
+2026-09-14 17:16:32,845 | INFO     | [autocomplete] 'ППламенев' → 1 результатов
+2026-09-14 17:16:34,584 | INFO     | [autocomplete] 'Павел Пламенев' → 1 результатов
+2026-09-14 17:16:39,841 | INFO     | [autocomplete] 'Павел Пламенев -' → 1 результатов
+2026-09-14 17:17:07,512 | INFO     | [autocomplete] 'Шаман' → 1 результатов
+2026-09-14 17:19:52,008 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-14 17:19:52,986 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-14 17:19:56,328 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-14 17:19:56,328 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 67
+2026-09-14 17:19:56,328 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 249
+2026-09-14 17:19:56,328 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-14 17:20:15,334 | INFO     | [autocomplete] 'пр' → 1 результатов
+2026-09-14 17:20:22,929 | INFO     | [autocomplete] 'пламенев' → 1 результатов
+2026-09-14 17:20:33,072 | INFO     | [autocomplete] 'пламенев -' → 1 результатов
+2026-09-14 17:20:33,095 | INFO     | [autocomplete] 'пламенев -' → 1 результатов
+2026-09-14 17:20:36,521 | INFO     | [autocomplete] 'пламенев - я' → 1 результатов
