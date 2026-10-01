@@ -1,0 +1,54 @@
+2026-09-22 12:19:23,037 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-22 12:19:24,093 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.minecraft_status
+2026-09-22 12:19:24,095 | ERROR    | 
+--- Ошибка в `cogs.minecraft_status` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "D:\Хлам\Void-Sentinel\cogs\minecraft_status.py", line 3, in <module>
+    from mcstatus import JavaServer
+ModuleNotFoundError: No module named 'mcstatus'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Хлам\Void-Sentinel\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.minecraft_status' raised an error: ModuleNotFoundError: No module named 'mcstatus'
+
+--- Конец ошибки ---
+2026-09-22 12:19:27,793 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-22 12:19:27,794 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 61
+2026-09-22 12:19:27,797 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 250
+2026-09-22 12:19:27,799 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-22 12:28:20,364 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-22 12:28:21,286 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-22 12:28:24,706 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-22 12:28:24,707 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 61
+2026-09-22 12:28:24,707 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 250
+2026-09-22 12:28:24,708 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-22 12:30:21,876 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-22 12:30:22,764 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-22 12:30:26,573 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-22 12:30:26,574 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 61
+2026-09-22 12:30:26,575 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 250
+2026-09-22 12:30:26,575 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-22 12:52:32,194 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-22 12:52:33,268 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-22 12:52:37,159 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-22 12:52:37,160 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 61
+2026-09-22 12:52:37,161 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 250
+2026-09-22 12:52:37,162 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
+2026-09-22 13:17:34,183 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-09-22 13:17:34,985 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-09-22 13:17:38,690 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-09-22 13:17:38,691 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 61
+2026-09-22 13:17:38,692 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 250
+2026-09-22 13:17:38,692 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 45
