@@ -1,0 +1,513 @@
+2026-10-01 10:33:07,989 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 10:33:08,825 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.minecraft_status
+2026-10-01 10:33:08,826 | ERROR    | 
+--- Ошибка в `cogs.minecraft_status` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\minecraft_status.py", line 4, in <module>
+    from mcstatus import JavaServer
+ModuleNotFoundError: No module named 'mcstatus'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 50, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.minecraft_status' raised an error: ModuleNotFoundError: No module named 'mcstatus'
+
+--- Конец ошибки ---
+2026-10-01 10:33:12,526 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 10:33:12,527 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 10:33:12,528 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 10:33:12,528 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 10:35:24,352 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 10:35:25,226 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 10:35:28,556 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 10:35:28,557 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 10:35:28,557 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 10:35:28,557 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:08:33,422 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:08:34,231 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.emission
+2026-10-01 11:08:34,231 | ERROR    | 
+--- Ошибка в `cogs.emission` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 10, in <module>
+    from config import (
+ImportError: cannot import name 'AUTH_HOST' from 'config' (C:\Users\Kraken_5491\Documents\Void-Sentinel\config.py)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 51, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.emission' raised an error: ImportError: cannot import name 'AUTH_HOST' from 'config' (C:\Users\Kraken_5491\Documents\Void-Sentinel\config.py)
+
+--- Конец ошибки ---
+2026-10-01 11:08:37,620 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:08:37,621 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:08:37,624 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:08:37,625 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:12:56,488 | WARNING  | STALZONE_CLIENT_ID / STALZONE_CLIENT_SECRET не заданы — работа с API будет невозможна
+2026-10-01 11:12:56,489 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:12:57,157 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:12:57,999 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:13:02,184 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:13:04,322 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:13:04,324 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:13:04,324 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:14:50,099 | WARNING  | STALZONE_CLIENT_ID / STALZONE_CLIENT_SECRET не заданы — работа с API будет невозможна
+2026-10-01 11:14:50,101 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:14:50,644 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:14:51,617 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:16:10,546 | WARNING  | STALZONE_CLIENT_ID / STALZONE_CLIENT_SECRET не заданы — работа с API будет невозможна
+2026-10-01 11:16:10,547 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:16:11,258 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:16:12,092 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:16:27,795 | WARNING  | STALZONE_CLIENT_ID / STALZONE_CLIENT_SECRET не заданы — работа с API будет невозможна
+2026-10-01 11:16:27,796 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:16:28,287 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:16:29,000 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:16:32,278 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:16:32,279 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:16:32,279 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:16:32,279 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:20:10,550 | WARNING  | STALZONE_CLIENT_ID / STALZONE_CLIENT_SECRET не заданы — работа с API будет невозможна
+2026-10-01 11:20:10,551 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:20:11,055 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:20:11,789 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:20:15,154 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:20:15,154 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:20:15,155 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:20:15,155 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:22:14,704 | ERROR    | Stalzone: ошибка получения токена — loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+2026-10-01 11:22:15,200 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:22:15,946 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:22:19,245 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:22:19,246 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:22:19,247 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:22:19,247 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:22:19,760 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:23:22,835 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:23:22,836 | INFO     | Stalzone: токен получен успешно
+2026-10-01 11:23:23,422 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:23:24,168 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:23:27,781 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:23:27,786 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:23:27,790 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:23:27,790 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:34:34,222 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:34:34,223 | INFO     | Stalzone: токен получен успешно
+2026-10-01 11:34:34,705 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:37:09,509 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:37:09,510 | INFO     | Stalzone: токен получен успешно
+2026-10-01 11:37:10,094 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:37:10,819 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:37:14,200 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:37:14,200 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:37:14,200 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:37:14,201 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:37:32,539 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-01 11:39:10,299 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:39:10,300 | INFO     | Stalzone: токен получен успешно
+2026-10-01 11:39:11,126 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:39:11,989 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:39:15,647 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:39:15,647 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:39:15,648 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:39:15,648 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:39:54,329 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-01 11:40:58,630 | INFO     | Stalzone: получен новый access_token
+2026-10-01 11:40:58,631 | INFO     | Stalzone: токен получен успешно
+2026-10-01 11:40:59,169 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:41:00,002 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:41:33,711 | ERROR    | Ошибка синхронизации слэш-команд: Client does not have an application_id set. Either the function was called before on_ready was called or application_id was not passed to the Client constructor.
+2026-10-01 11:41:34,309 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:41:35,282 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:42:43,846 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:42:44,575 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.emission
+2026-10-01 11:42:44,575 | ERROR    | 
+--- Ошибка в `cogs.emission` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 974, in _load_from_module_spec
+    await setup(self)
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 220, in setup
+    guild = discord.Object(id=ВАШ_GUILD_ID)   # ID тестового сервера
+                              ^^^^^^^^^^^^
+NameError: name 'ВАШ_GUILD_ID' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 55, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 979, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.emission' raised an error: NameError: name 'ВАШ_GUILD_ID' is not defined
+
+--- Конец ошибки ---
+2026-10-01 11:42:48,347 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:42:48,348 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:42:48,348 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:42:48,349 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:43:24,769 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:43:26,373 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.emission
+2026-10-01 11:43:26,375 | ERROR    | 
+--- Ошибка в `cogs.emission` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 974, in _load_from_module_spec
+    await setup(self)
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 220, in setup
+    guild = discord.Object(id=ВАШ_GUILD_ID)   # ID тестового сервера
+                              ^^^^^^^^^^^^
+NameError: name 'ВАШ_GUILD_ID' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 55, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 979, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.emission' raised an error: NameError: name 'ВАШ_GUILD_ID' is not defined
+
+--- Конец ошибки ---
+2026-10-01 11:43:31,008 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:43:31,009 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:43:31,009 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:43:31,010 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:43:59,357 | ERROR    | Ошибка синхронизации слэш-команд: Client does not have an application_id set. Either the function was called before on_ready was called or application_id was not passed to the Client constructor.
+2026-10-01 11:44:00,288 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:44:01,068 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:44:04,661 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:44:04,662 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:44:04,662 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:44:04,663 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 11:44:50,797 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 11:44:52,158 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 11:44:55,894 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 11:44:55,895 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 11:44:55,895 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 11:44:55,895 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:19:58,469 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 12:19:59,206 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.emission
+2026-10-01 12:19:59,206 | ERROR    | 
+--- Ошибка в `cogs.emission` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 974, in _load_from_module_spec
+    await setup(self)
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 476, in setup
+    await bot.add_cog(Emission(bot))
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 810, in add_cog
+    cog = await cog._inject(self, override=override, guild=guild, guilds=guilds)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\cog.py", line 710, in _inject
+    await maybe_coroutine(self.cog_load)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\utils.py", line 713, in maybe_coroutine
+    return await value
+           ^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 154, in cog_load
+    self.bot.loop.create_task(self._ensure_channel_layout())
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\client.py", line 170, in __getattr__
+    raise AttributeError(msg)
+AttributeError: loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 55, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 979, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.emission' raised an error: AttributeError: loop attribute cannot be accessed in non-async contexts. Consider using either an asynchronous main function and passing it to asyncio.run or using asynchronous initialisation hooks such as Client.setup_hook
+
+--- Конец ошибки ---
+2026-10-01 12:20:02,546 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 12:20:02,548 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 12:20:02,548 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 12:20:02,548 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:21:06,401 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 12:21:07,133 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 12:21:10,682 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 12:21:10,683 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 12:21:10,683 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 12:21:10,684 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:21:11,199 | INFO     | Меню ролей запощено
+2026-10-01 12:21:13,276 | INFO     | Живой статус создан
+2026-10-01 12:27:09,297 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 12:27:10,080 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 12:27:13,641 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 12:27:13,641 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 12:27:13,642 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 12:27:13,643 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:27:14,273 | INFO     | Меню ролей запощено
+2026-10-01 12:27:15,961 | INFO     | Живой статус создан
+2026-10-01 12:28:15,420 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 12:28:16,180 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 12:28:19,858 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 12:28:19,858 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 12:28:19,858 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 12:28:19,859 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:28:20,524 | INFO     | Меню ролей запощено
+2026-10-01 12:28:22,971 | INFO     | Живой статус создан
+2026-10-01 12:35:18,540 | INFO     | ⚔️ ClanWarNotifications загружен
+2026-10-01 12:35:19,869 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 12:35:23,284 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 12:35:23,285 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 12:35:23,285 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 12:35:23,286 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 12:35:23,916 | INFO     | Меню ролей запощено
+2026-10-01 12:35:25,891 | INFO     | Живой статус создан
+2026-10-01 13:11:40,975 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:11:45,284 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:11:45,285 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:11:45,285 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:11:45,285 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:12:39,686 | INFO     | 📩 Заявка [Stalzone] начата: kraken_5491 (818235533602848768)
+2026-10-01 13:12:53,758 | DEBUG    | [Stalzone] Ответ: Kraken
+2026-10-01 13:13:06,038 | DEBUG    | [Stalzone] Ответ: 1500+-
+2026-10-01 13:13:13,839 | DEBUG    | [Stalzone] Ответ: EU
+2026-10-01 13:13:25,254 | DEBUG    | [Stalzone] Ответ: Київ
+2026-10-01 13:13:31,228 | DEBUG    | [Stalzone] Ответ: CESH
+2026-10-01 13:13:38,049 | DEBUG    | [Stalzone] Ответ: Бля буду
+2026-10-01 13:13:42,465 | DEBUG    | [Stalzone] Ответ: +
+2026-10-01 13:13:43,893 | INFO     | 📨 Заявка [Stalzone] отправлена: kraken_5491
+2026-10-01 13:13:44,588 | INFO     | 📢 Уведомлён: kraken_5491
+2026-10-01 13:13:44,589 | WARNING  | Роль не найдена: 1429978575347519610
+2026-10-01 13:14:10,094 | INFO     | Заявка [Stalzone] одобрена: kraken_5491
+2026-10-01 13:21:55,122 | INFO     | ЛС отправлено Chumoxod
+2026-10-01 13:23:13,621 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:23:16,849 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:23:16,850 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:23:16,850 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:23:16,850 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:24:11,922 | INFO     | 📩 Заявка [STALZONE] начата: kraken_5491 (818235533602848768)
+2026-10-01 13:24:21,543 | DEBUG    | [STALZONE] Ответ: Х
+2026-10-01 13:24:23,586 | DEBUG    | [STALZONE] Ответ: У
+2026-10-01 13:24:25,521 | DEBUG    | [STALZONE] Ответ: Й
+2026-10-01 13:24:27,283 | DEBUG    | [STALZONE] Ответ: М
+2026-10-01 13:24:28,950 | DEBUG    | [STALZONE] Ответ: Н
+2026-10-01 13:24:30,986 | DEBUG    | [STALZONE] Ответ: Е
+2026-10-01 13:24:35,166 | DEBUG    | [STALZONE] Ответ: Б
+2026-10-01 13:24:37,360 | INFO     | 📨 Заявка [STALZONE] отправлена: kraken_5491
+2026-10-01 13:24:38,393 | INFO     | 📢 Уведомлён: kraken_5491
+2026-10-01 13:24:38,395 | WARNING  | Роль не найдена: 1429978575347519610
+2026-10-01 13:24:41,419 | INFO     | Заявка [STALZONE] одобрена: kraken_5491
+2026-10-01 13:25:24,675 | INFO     | 📩 Заявка [Eternal Crusade Resurrection] начата: kraken_5491 (818235533602848768)
+2026-10-01 13:25:31,023 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:32,418 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:33,850 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:35,396 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:36,705 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:38,385 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:39,747 | DEBUG    | [Eternal Crusade Resurrection] Ответ: Б
+2026-10-01 13:25:41,455 | INFO     | 📨 Заявка [Eternal Crusade Resurrection] отправлена: kraken_5491
+2026-10-01 13:25:42,366 | INFO     | 📢 Уведомлён: kraken_5491
+2026-10-01 13:25:42,366 | WARNING  | Роль не найдена: 1429978575347519610
+2026-10-01 13:25:45,638 | INFO     | Заявка [Eternal Crusade Resurrection] одобрена: kraken_5491
+2026-10-01 13:42:09,538 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:42:12,784 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:42:12,784 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:42:12,785 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:42:12,785 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:47:42,648 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:47:46,228 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:47:46,228 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:47:46,229 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:47:46,229 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:48:26,569 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:48:29,803 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:48:29,804 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:48:29,804 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:48:29,804 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:51:23,082 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:51:26,345 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:51:26,345 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:51:26,345 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:51:26,345 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:51:31,484 | WARNING  | Interaction протух до defer — команда не выполнена
+2026-10-01 13:54:54,980 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 13:54:58,368 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 13:54:58,369 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 13:54:58,369 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 13:54:58,370 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 13:58:00,278 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Kraken_5491🔊| - (kraken_5491)
+2026-10-01 13:58:03,059 | SUCCESS  | Удалён пустой войс: 1555171921337917451
+2026-10-01 13:58:20,681 | INFO     | Создана игра Монетка: kraken_5491 vs Void Sentinel#5662
+2026-10-01 13:58:21,489 | INFO     | Игра создана: kraken_5491 vs Void Sentinel#5662, сообщение 1555172009791459358
+2026-10-01 13:58:23,799 | INFO     | kraken_5491 выбрал орёл
+2026-10-01 13:58:23,800 | INFO     | Void Sentinel#5662 автоматически выбрал решка
+2026-10-01 13:58:23,800 | INFO     | Void Sentinel#5662 победил в игре Монетка (решка)
+2026-10-01 13:58:49,517 | INFO     | Создана игра Монетка: kraken_5491 vs folkop.3333376
+2026-10-01 13:58:50,091 | INFO     | Игра создана: kraken_5491 vs folkop.3333376, сообщение 1555172130017255445
+2026-10-01 13:59:18,363 | INFO     | kraken_5491 выбрал решка
+2026-10-01 13:59:25,251 | INFO     | folkop.3333376 выбрал решка
+2026-10-01 13:59:25,252 | INFO     | Ничья в игре Монетка: результат орёл
+2026-10-01 14:01:56,804 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:02:00,141 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:02:00,142 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:02:00,142 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:02:00,142 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:02:10,989 | ERROR    | ❌ Ошибка при получении данных из Supabase: [Errno 11001] getaddrinfo failed
+2026-10-01 14:02:11,357 | ERROR    | kraken_5491 попытался запустить викторину, но вопросы не найдены
+2026-10-01 14:02:20,917 | INFO     | Создана игра Монетка: kraken_5491 vs Void Sentinel#5662
+2026-10-01 14:02:21,436 | INFO     | Игра создана: kraken_5491 vs Void Sentinel#5662, сообщение 1555173016449843231
+2026-10-01 14:02:24,246 | INFO     | kraken_5491 выбрал орёл
+2026-10-01 14:02:24,246 | INFO     | Void Sentinel#5662 автоматически выбрал орёл
+2026-10-01 14:02:24,247 | INFO     | Ничья в игре Монетка: результат решка
+2026-10-01 14:07:10,308 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:07:13,721 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:07:13,722 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:07:13,722 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:07:13,722 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:09:52,114 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:09:55,588 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:09:55,589 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:09:55,590 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:09:55,590 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:11:14,002 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:11:17,756 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:11:17,756 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:11:17,757 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:11:17,757 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:13:01,500 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:13:04,907 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:13:04,907 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:13:04,907 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:13:04,908 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:17:54,257 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 14:17:54,262 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:17:58,014 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:17:58,014 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:17:58,015 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:17:58,015 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:18:12,358 | INFO     | 📩 Дуэль КНБ создана [rps-a2977a91]: kraken_5491 (818235533602848768) вызывает Void Sentinel#5662 (1230464176745480254), folkop.3333376 (1038050688023932959)
+2026-10-01 14:18:12,360 | DEBUG    | [rps-a2977a91] 🤖 Бот Void Sentinel#5662 автоматически принял дуэль
+2026-10-01 14:18:16,680 | DEBUG    | [rps-a2977a91] kraken_5491 не участник дуэли — нажатие игнорируется
+2026-10-01 14:18:21,769 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-01 14:18:31,387 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 14:18:31,391 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:18:34,698 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:18:34,698 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:18:34,699 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:18:34,699 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:18:41,242 | INFO     | 📩 Дуэль КНБ создана [rps-cd182cb4]: kraken_5491 (818235533602848768) вызывает Void Sentinel#5662 (1230464176745480254)
+2026-10-01 14:18:41,243 | DEBUG    | [rps-cd182cb4] 🤖 Бот Void Sentinel#5662 автоматически принял дуэль
+2026-10-01 14:18:42,570 | DEBUG    | [rps-cd182cb4] 🤖 Бот Void Sentinel#5662 выбрал: камень
+2026-10-01 14:18:42,902 | INFO     | [rps-cd182cb4] 🎮 Игра началась
+2026-10-01 14:18:49,566 | INFO     | [rps-cd182cb4] ✋ kraken_5491 (818235533602848768) выбрал: камень
+2026-10-01 14:18:49,566 | INFO     | [rps-cd182cb4] 📊 Результат: ничья между kraken_5491 (818235533602848768), Void Sentinel#5662 (1230464176745480254)
+2026-10-01 14:18:50,383 | DEBUG    | 🗑 Дуэль [rps-cd182cb4] удалена из хранилища
+2026-10-01 14:28:51,445 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 14:28:51,450 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:28:54,810 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:28:54,811 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:28:54,811 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:28:54,811 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:37:44,372 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 14:37:44,377 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 14:37:47,660 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 14:37:47,661 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 14:37:47,661 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 14:37:47,661 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 14:38:10,462 | INFO     | Загружено 3 категорий из data\server_info.json
+2026-10-01 14:38:11,124 | INFO     | kraken_5491 открыл меню информации о сервере
+2026-10-01 14:38:14,495 | INFO     | kraken_5491 выбрал категорию 'Правила'
+2026-10-01 14:38:18,560 | INFO     | kraken_5491 выбрал категорию 'Роли'
+2026-10-01 14:38:23,628 | INFO     | kraken_5491 выбрал категорию 'Кланы и ветки'
+2026-10-01 14:41:40,411 | INFO     | Загружено 1 категорий из data\server_info.json
+2026-10-01 14:41:40,885 | INFO     | kraken_5491 открыл меню информации о сервере
+2026-10-01 14:41:45,342 | INFO     | kraken_5491 выбрал категорию 'Кланы и ветки'
+2026-10-01 15:01:43,105 | ERROR    | ❌ Ошибка парсинга JSON: Expecting ',' delimiter: line 12 column 5 (char 801)
+2026-10-01 15:02:36,185 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 15:02:36,191 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 15:02:41,030 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 15:02:41,030 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 15:02:41,031 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 15:02:41,031 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 15:03:46,034 | ERROR    | ❌ Ошибка парсинга JSON: Expecting ',' delimiter: line 12 column 5 (char 801)
+2026-10-01 15:04:32,190 | ERROR    | ❌ Ошибка парсинга JSON: Expecting ',' delimiter: line 12 column 5 (char 801)
+2026-10-01 15:09:01,378 | ERROR    | ❌ Ошибка парсинга JSON: Expecting ',' delimiter: line 12 column 5 (char 801)
+2026-10-01 15:11:57,580 | INFO     | Загружено 1 категорий из data\server_info.json
+2026-10-01 15:11:58,122 | INFO     | kraken_5491 открыл меню информации о сервере
+2026-10-01 15:12:01,908 | INFO     | kraken_5491 выбрал категорию 'Кланы и ветки'
+2026-10-01 16:00:17,550 | WARNING  | [autocomplete] таймаут поиска: лидак
+2026-10-01 16:00:20,111 | INFO     | [player_loop] трек: лидак
+2026-10-01 16:00:20,111 | INFO     | [player_loop] url: https://soundcloud.com/666p3rc/lidak
+2026-10-01 16:00:20,203 | WARNING  | yt-dlp: ffmpeg-location D:\Хлам\Void-Sentinel\ffmpeg\bin does not exist! Continuing without ffmpeg
+2026-10-01 16:00:20,204 | INFO     | [download] extract_info: url=https://soundcloud.com/666p3rc/lidak
+2026-10-01 16:00:23,429 | WARNING  | yt-dlp: ffmpeg-location D:\Хлам\Void-Sentinel\ffmpeg\bin does not exist! Continuing without ffmpeg
+2026-10-01 16:00:23,429 | WARNING  | yt-dlp: 2339247053: writing DASH m4a. Only some players support this container. Install ffmpeg to fix this automatically
+2026-10-01 16:00:23,430 | WARNING  | yt-dlp: ffmpeg-location D:\Хлам\Void-Sentinel\ffmpeg\bin does not exist! Continuing without ffmpeg
+2026-10-01 16:00:23,430 | WARNING  | yt-dlp: 2339247053: Possible MPEG-TS in MP4 container or malformed AAC timestamps. Install ffmpeg to fix this automatically
+2026-10-01 16:00:23,435 | ERROR    | yt-dlp: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-10-01 16:00:23,438 | ERROR    | [download] ошибка для лидак: DownloadError: [0;31mERROR:[0m Postprocessing: ffprobe and ffmpeg not found. Please install or provide the path using --ffmpeg-location
+2026-10-01 16:00:23,438 | INFO     | [player_loop] local_path = None
+2026-10-01 16:00:23,438 | INFO     | [player_loop] fallback на стрим: https://playback.media-streaming.soundcloud.cloud/uSTIho8iQCqx/aac_160k/55937409-c71d-4ccc-877b-f8b3ff987248/playlist.m3u8?expires=1790866918&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wbGF5YmFjay5tZWRpYS1zdHJlYW1pbmcuc291bmRjbG91ZC5jbG91ZC91U1RJaG84aVFDcXgvYWFjXzE2MGsvNTU5Mzc0MDktYzcxZC00Y2NjLTg3N2ItZjhiM2ZmOTg3MjQ4L3BsYXlsaXN0Lm0zdTg~ZXhwaXJlcz0xNzkwODY2OTE4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODU5ODM4fX19XX0_&Signature=yQh2ISZcRIOuodAVwCB0WXHxS4~~nH~-2juA6FHwO84YaqzKj0QR9pZv1fKb~0j9LNH2fa~VOwnjpyxoEZl0lGSpW-oe4Pj4VfMkkMbZeOEbcWpS5xaTEdG18GGYei3Q~x1gyWGOsXKZCtHWG4KP5o5x~Grf51TYEU-7maMsfz-L~7OwToJbSszH5tN66nQyZNh4UXINavuxyP53aNihMk9cbs0M3lmyxiHmnYF3HepblFkn7uWi5M7n3w7isYI~Mu57PwPHjMeSC5vEmaMgypNw7H7ciMnpD4WlxXASNGwEAsvjUUMGa78mRy7mk8pSxyw29AGlVOTMFcys5hS~kw__&Key-Pair-Id=K34606QXLEIRF3
+2026-10-01 16:00:23,440 | ERROR    | Task exception was never retrieved
+future: <Task finished name='Task-271' coro=<Music.player_loop() done, defined at C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\music.py:511> exception=ClientException('D:\\Хлам\\Void-Sentinel\\ffmpeg\\bin\\ffmpeg.exe was not found.')>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\music.py", line 554, in player_loop
+    source = discord.FFmpegPCMAudio(
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 396, in __init__
+    super().__init__(source, executable=executable, args=args, **subprocess_kwargs)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 183, in __init__
+    self._process = self._spawn_process(args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\player.py", line 211, in _spawn_process
+    raise ClientException(executable + ' was not found.') from None
+discord.errors.ClientException: D:\Хлам\Void-Sentinel\ffmpeg\bin\ffmpeg.exe was not found.
+2026-10-01 16:01:50,529 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 16:01:50,535 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 16:01:54,206 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 16:01:54,207 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 16:01:54,207 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 16:01:54,208 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 16:02:06,605 | WARNING  | [autocomplete] таймаут поиска: лидак
+2026-10-01 16:03:45,419 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 16:03:45,425 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 16:03:48,766 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 16:03:48,766 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-01 16:03:48,767 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 16:03:48,767 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 16:05:25,477 | INFO     | [player_loop] трек: лидак
+2026-10-01 16:05:25,478 | INFO     | [player_loop] url: https://soundcloud.com/666p3rc/lidak
+2026-10-01 16:05:25,581 | INFO     | [download] extract_info: url=https://soundcloud.com/666p3rc/lidak
+2026-10-01 16:05:34,915 | INFO     | [download] resolved path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_73a6dd52fbeb.opus
+2026-10-01 16:05:34,918 | INFO     | [player_loop] local_path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_73a6dd52fbeb.opus
+2026-10-01 16:05:35,020 | INFO     | [player_loop] vc.play OK, is_playing=True
+2026-10-01 19:20:43,411 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-01 19:20:43,502 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-01 19:20:49,240 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-01 19:20:49,240 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 70
+2026-10-01 19:20:49,240 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 248
+2026-10-01 19:20:49,240 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-01 20:30:09,244 | INFO     | 📊 DM 2026-10-01 | sent=0 failed=0 | text=⚔️ Сетка КВ началась!
+2026-10-01 20:50:09,244 | INFO     | 📊 DM 2026-10-01 | sent=0 failed=0 | text=⏳ До КВ осталось 10 минут!
+2026-10-01 21:00:09,249 | INFO     | 📊 DM 2026-10-01 | sent=0 failed=0 | text=🔥 КВ НАЧАЛОСЬ!
+2026-10-01 21:18:39,177 | SUCCESS  | Создан временный войс: - |🔊Вокс [LOTD] Max_kok/Шышка🔊| - (boba5484)
+2026-10-01 21:18:42,454 | SUCCESS  | Удалён пустой войс: 1555282810191741115
