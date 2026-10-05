@@ -1,0 +1,33 @@
+2026-10-05 15:06:22,714 | ERROR    | Stalzone: ошибка получения токена — timed out
+2026-10-05 15:06:23,886 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-05 15:06:23,901 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-05 15:06:27,780 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-05 15:06:27,780 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-05 15:06:27,782 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 247
+2026-10-05 15:06:27,782 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-05 15:06:42,912 | ERROR    | [EU] fetch error: timed out
+2026-10-05 15:06:42,912 | ERROR    | [SEA] fetch error: timed out
+2026-10-05 15:06:43,177 | ERROR    | [EU] fetch error: timed out
+2026-10-05 15:06:43,177 | ERROR    | [SEA] fetch error: timed out
+2026-10-05 15:08:41,383 | ERROR    | [EU] fetch error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-05 15:08:41,383 | ERROR    | [SEA] fetch error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-10-05 17:18:49,581 | INFO     | [player_loop] трек: лидак
+2026-10-05 17:18:49,581 | INFO     | [player_loop] url: https://soundcloud.com/666p3rc/lidak
+2026-10-05 17:18:49,659 | INFO     | [download] extract_info: url=https://soundcloud.com/666p3rc/lidak
+2026-10-05 17:20:15,035 | INFO     | 🎮 RPS-ког инициализирован
+2026-10-05 17:20:15,051 | SUCCESS  | 🎉 Все файлы cogs успешно загружены!
+2026-10-05 17:20:18,630 | SUCCESS  | 🤖 Бот `Void Sentinel#5662` успешно запущен (ID: 1230464176745480254)
+2026-10-05 17:20:18,630 | INFO     | 🛡 Сервер: Legion Of The Damned | ID: 828749346505490503 | Участников: 69
+2026-10-05 17:20:18,630 | INFO     | 🛡 Сервер: Space_Marine 2RU | ID: 1118852004786225192 | Участников: 247
+2026-10-05 17:20:18,630 | INFO     | 🛡 Сервер: winie's server | ID: 1335265286198263848 | Участников: 44
+2026-10-05 17:20:30,741 | INFO     | [player_loop] трек: лидак
+2026-10-05 17:20:30,741 | INFO     | [player_loop] url: https://soundcloud.com/666p3rc/lidak
+2026-10-05 17:20:30,850 | INFO     | [download] extract_info: url=https://soundcloud.com/666p3rc/lidak
+2026-10-05 17:20:44,443 | INFO     | [download] resolved path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_37ef4970ce4c.opus
+2026-10-05 17:20:44,474 | INFO     | [player_loop] local_path = C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_37ef4970ce4c.opus
+2026-10-05 17:20:44,615 | INFO     | [player_loop] vc.play OK, is_playing=True
+2026-10-05 17:22:00,480 | WARNING  | [cleanup] не удалось удалить C:\Users\KRAKEN~1\AppData\Local\Temp\voidsent_37ef4970ce4c.opus: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\KRAKEN~1\\AppData\\Local\\Temp\\voidsent_37ef4970ce4c.opus'
+2026-10-05 18:26:35,789 | ERROR    | [SEA] fetch error: _ssl.c:993: The handshake operation timed out
+2026-10-05 20:30:10,069 | INFO     | 📊 DM 2026-10-05 | sent=1 failed=0 | text=⚔️ Сетка КВ началась!
+2026-10-05 20:50:09,962 | INFO     | 📊 DM 2026-10-05 | sent=1 failed=0 | text=⏳ До КВ осталось 10 минут!
+2026-10-05 21:00:09,615 | INFO     | 📊 DM 2026-10-05 | sent=1 failed=0 | text=🔥 КВ НАЧАЛОСЬ!
