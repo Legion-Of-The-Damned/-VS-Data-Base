@@ -401,3 +401,38 @@ json.decoder.JSONDecodeError: Expecting ':' delimiter: line 2 column 30 (char 31
 2026-10-09 23:54:56,415 | INFO     | 📂 Загружено 2 категорий из data\server_info.json
 2026-10-09 23:55:00,257 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
 2026-10-09 23:56:25,752 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🗂 Каналы Discord'
+2026-10-10 00:03:12,235 | INFO     | 📂 Загружено 2 категорий из data\server_info.json
+2026-10-10 00:03:15,776 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-10 00:03:22,621 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:05:03,550 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:05:06,416 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:05:13,119 | INFO     | 📂 Загружено 2 категорий из data\server_info.json
+2026-10-10 00:05:18,347 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:15:25,236 | ERROR    | ❌ Ошибка парсинга JSON в data\server_info.json
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 45, in load_categories_from_file
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 19 column 5 (char 2393)
+2026-10-10 00:16:34,585 | INFO     | 📂 Загружено 3 категорий из data\server_info.json
+2026-10-10 00:16:38,722 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '⚔️ Расписание КВ'
+2026-10-10 00:17:09,552 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '⚔️ Расписание КВ'
+2026-10-10 00:17:12,279 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:17:16,299 | INFO     | 📂 Загружено 3 категорий из data\server_info.json
+2026-10-10 00:17:19,502 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '⚔️ Расписание КВ'
+2026-10-10 00:17:30,122 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
+2026-10-10 00:17:50,602 | INFO     | 📂 Загружено 3 категорий из data\server_info.json
+2026-10-10 00:17:53,835 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '⚔️ Расписание КВ'
+2026-10-10 00:18:00,119 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '💤 Система АФК'
