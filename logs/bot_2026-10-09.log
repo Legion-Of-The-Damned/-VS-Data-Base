@@ -1,0 +1,403 @@
+2026-10-09 22:28:07,031 | INFO     | 🚀 Напоминания: старт (напоминаний=0, таймзон=1)
+2026-10-09 22:28:39,641 | INFO     | 📩 Заявка [STALZONE] начата: kraken_5491 (818235533602848768)
+2026-10-09 22:28:56,711 | DEBUG    | [STALZONE] Ответ: Лёха
+2026-10-09 22:29:05,746 | DEBUG    | [STALZONE] Ответ: Киев
+2026-10-09 22:29:13,482 | DEBUG    | [STALZONE] Ответ: 1600+
+2026-10-09 22:29:20,564 | DEBUG    | [STALZONE] Ответ: КЕСШ
+2026-10-09 22:29:25,347 | DEBUG    | [STALZONE] Ответ: Я
+2026-10-09 22:29:29,141 | DEBUG    | [STALZONE] Ответ: Бля
+2026-10-09 22:29:35,461 | DEBUG    | [STALZONE] Ответ: +
+2026-10-09 22:29:36,904 | INFO     | 📨 Заявка [STALZONE] отправлена: kraken_5491 (игровой ник: Лёха)
+2026-10-09 22:29:45,345 | WARNING  | Нет прав изменить ник kraken_5491 (роль бота ниже по иерархии?)
+2026-10-09 22:29:46,139 | INFO     | Заявка [STALZONE] одобрена: kraken_5491
+2026-10-09 22:35:58,460 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 22:51:56,439 | SUCCESS  | Stalzone: токен получен
+2026-10-09 22:51:56,439 | INFO     | Stalzone: цикл emission_loop запущен
+2026-10-09 22:51:56,999 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.info
+2026-10-09 22:51:56,999 | ERROR    | 
+--- Ошибка в `cogs.info` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 12, in <module>
+    from version import BOT_VERSION
+ModuleNotFoundError: No module named 'version'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.info' raised an error: ModuleNotFoundError: No module named 'version'
+
+--- Конец ---
+2026-10-09 22:52:00,799 | INFO     | 🚀 Напоминания: старт (напоминаний=0, таймзон=1)
+2026-10-09 23:00:12,758 | INFO     | 🚀 Admin: cog_load
+2026-10-09 23:00:12,767 | INFO     | 🚀 ClanInfo: cog_load
+2026-10-09 23:00:13,908 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:00:13,908 | INFO     | Stalzone: цикл emission_loop запущен
+2026-10-09 23:00:14,428 | INFO     | Music: используется ffmpeg = ffmpeg
+2026-10-09 23:00:14,428 | INFO     | 🚀 Music: __init__
+2026-10-09 23:00:14,454 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:00:14,454 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:00:14,468 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:00:14,477 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:00:14,477 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:00:14,477 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.info
+2026-10-09 23:00:14,477 | ERROR    | 
+--- Ошибка в `cogs.info` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 12, in <module>
+    from version import BOT_VERSION
+ModuleNotFoundError: No module named 'version'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.info' raised an error: ModuleNotFoundError: No module named 'version'
+
+--- Конец ---
+2026-10-09 23:00:18,152 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:00:18,153 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:01:05,228 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:01:13,068 | INFO     | 🚀 Admin: cog_load
+2026-10-09 23:01:13,077 | INFO     | 🚀 ClanInfo: cog_load
+2026-10-09 23:01:13,488 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:01:13,488 | INFO     | Stalzone: цикл emission_loop запущен
+2026-10-09 23:01:13,995 | INFO     | Music: используется ffmpeg = ffmpeg
+2026-10-09 23:01:13,995 | INFO     | 🚀 Music: __init__
+2026-10-09 23:01:13,998 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:01:13,998 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:01:14,008 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:01:14,008 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:01:14,008 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:01:17,368 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:01:17,368 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:03:53,112 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:04:01,558 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:04:01,558 | INFO     | Stalzone: цикл emission_loop запущен
+2026-10-09 23:04:02,097 | INFO     | Music: используется ffmpeg = ffmpeg
+2026-10-09 23:04:02,107 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:04:02,107 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:04:02,117 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:04:02,127 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:04:02,127 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:04:02,127 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.admin, cogs.clan_info
+2026-10-09 23:04:02,127 | ERROR    | 
+--- Ошибка в `cogs.admin` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\admin.py", line 52
+    async def cog_unload(self):
+    ^^^^^
+IndentationError: expected an indented block after function definition on line 50
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.admin' raised an error: IndentationError: expected an indented block after function definition on line 50 (admin.py, line 52)
+
+--- Конец ---
+2026-10-09 23:04:02,127 | ERROR    | 
+--- Ошибка в `cogs.clan_info` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\clan_info.py", line 56
+    async def cog_unload(self):
+    ^^^^^
+IndentationError: expected an indented block after function definition on line 54
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.clan_info' raised an error: IndentationError: expected an indented block after function definition on line 54 (clan_info.py, line 56)
+
+--- Конец ---
+2026-10-09 23:04:05,498 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:04:05,498 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:05:34,302 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:07:25,597 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:07:25,597 | INFO     | Stalzone: цикл emission_loop запущен
+2026-10-09 23:07:26,087 | INFO     | Music: используется ffmpeg = ffmpeg
+2026-10-09 23:07:26,087 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:07:26,097 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:07:26,097 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:07:26,097 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:07:26,097 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:07:29,877 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:07:29,877 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:10:45,930 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:10:54,417 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:10:54,927 | INFO     | Music: используется ffmpeg = ffmpeg
+2026-10-09 23:10:54,927 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:10:54,936 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:10:54,941 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:10:54,941 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:10:54,941 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:10:58,437 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:10:58,437 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:12:11,226 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:12:20,467 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:12:21,594 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:12:21,597 | INFO     | 🚀 КВ: cog_load
+2026-10-09 23:12:21,613 | INFO     | 🚀 КНБ: cog_load
+2026-10-09 23:12:21,618 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:12:21,619 | INFO     | 🚀 TempVoice: cog_load
+2026-10-09 23:12:26,588 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:12:26,588 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:13:42,963 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:13:50,566 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:13:51,112 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:13:51,128 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.rps, cogs.voice
+2026-10-09 23:13:51,128 | ERROR    | 
+--- Ошибка в `cogs.rps` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\rps.py", line 35
+    async def cog_unload(self):
+    ^^^^^
+IndentationError: expected an indented block after function definition on line 33
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.rps' raised an error: IndentationError: expected an indented block after function definition on line 33 (rps.py, line 35)
+
+--- Конец ---
+2026-10-09 23:13:51,129 | ERROR    | 
+--- Ошибка в `cogs.voice` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\voice.py", line 30
+    async def cog_unload(self):
+    ^^^^^
+IndentationError: expected an indented block after function definition on line 28
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.voice' raised an error: IndentationError: expected an indented block after function definition on line 28 (voice.py, line 30)
+
+--- Конец ---
+2026-10-09 23:14:22,467 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:14:22,992 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:14:23,020 | CRITICAL | ❌ Ошибки при загрузке модулей: cogs.voice
+2026-10-09 23:14:23,020 | ERROR    | 
+--- Ошибка в `cogs.voice` ---
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 962, in _load_from_module_spec
+    spec.loader.exec_module(lib)  # type: ignore
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1133, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1063, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\voice.py", line 30
+    async def cog_unload(self):
+    ^^^^^
+IndentationError: expected an indented block after function definition on line 28
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\main.py", line 52, in load_cogs
+    await bot.load_extension(cog)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 1040, in load_extension
+    await self._load_from_module_spec(spec, name)
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\site-packages\discord\ext\commands\bot.py", line 965, in _load_from_module_spec
+    raise errors.ExtensionFailed(key, e) from e
+discord.ext.commands.errors.ExtensionFailed: Extension 'cogs.voice' raised an error: IndentationError: expected an indented block after function definition on line 28 (voice.py, line 30)
+
+--- Конец ---
+2026-10-09 23:14:26,580 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:14:26,580 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:16:18,286 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:16:18,806 | WARNING  | КВ: CW_GUILD_ID / CW_ANNOUNCEMENTS_CHANNEL_ID / CW_ROLE_ID не заданы в конфиге — анонсы могут не работать
+2026-10-09 23:16:18,816 | WARNING  | TempVoice: TEMP_VOICE_JOIN_CHANNEL_ID / TEMP_VOICE_CATEGORY_ID не заданы в конфиге
+2026-10-09 23:16:23,126 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:16:23,126 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:20:37,280 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:20:46,110 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:20:50,275 | INFO     | 🚀 КВ: daily_announcement запущен
+2026-10-09 23:20:50,275 | INFO     | 🚀 КВ: cw_notifications запущен
+2026-10-09 23:23:36,440 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:37:10,254 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:37:23,121 | ERROR    | ❌ Ошибка парсинга JSON в data\server_info.json
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 45, in load_categories_from_file
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 27 column 1 (char 1724)
+2026-10-09 23:37:31,114 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:38:53,304 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:39:01,954 | WARNING  | Категория 'Кланы и ветки' имеет неизвестный формат (dict) — пропущена
+2026-10-09 23:39:01,957 | WARNING  | Категория 'Каналы Discord' имеет неизвестный формат (dict) — пропущена
+2026-10-09 23:39:01,958 | INFO     | 📂 Загружено 0 категорий из data\server_info.json
+2026-10-09 23:39:40,016 | INFO     | 📂 Загружено 5 категорий из data\server_info.json
+2026-10-09 23:39:45,915 | INFO     | kraken_5491 (818235533602848768) выбрал категорию 'Кланы и ветки'
+2026-10-09 23:39:52,628 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 ЗАЛ ВЕЧНОГО НАДЗОРА'
+2026-10-09 23:39:55,684 | INFO     | kraken_5491 (818235533602848768) выбрал категорию 'Кланы и ветки'
+2026-10-09 23:40:57,193 | INFO     | kraken_5491 (818235533602848768) выбрал категорию 'Кланы и ветки'
+2026-10-09 23:41:00,504 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '⚔️ КУЗНИЦА ПРОКЛЯТЫХ'
+2026-10-09 23:41:04,777 | INFO     | kraken_5491 (818235533602848768) выбрал категорию 'Кланы и ветки'
+2026-10-09 23:41:44,118 | INFO     | kraken_5491 (818235533602848768) выбрал категорию 'Кланы и ветки'
+2026-10-09 23:41:58,947 | INFO     | 📂 Загружено 1 категорий из data\server_info.json
+2026-10-09 23:42:02,634 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🏛 Legion Of The Damned'
+2026-10-09 23:42:39,996 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🏛 Legion Of The Damned'
+2026-10-09 23:42:43,005 | INFO     | 📂 Загружено 1 категорий из data\server_info.json
+2026-10-09 23:42:46,377 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🏛 Legion Of The Damned'
+2026-10-09 23:42:59,973 | INFO     | 🚨 Новый выброс [EU]: 2026-10-09T20:41:51Z
+2026-10-09 23:43:00,455 | SUCCESS  | Алерт [EU] отправлен
+2026-10-09 23:44:54,639 | ERROR    | data\server_info.json должен быть словарём верхнего уровня
+2026-10-09 23:45:02,219 | ERROR    | data\server_info.json должен быть словарём верхнего уровня
+2026-10-09 23:46:05,786 | ERROR    | data\server_info.json должен быть словарём верхнего уровня
+2026-10-09 23:46:28,093 | INFO     | 📂 Загружено 1 категорий из data\server_info.json
+2026-10-09 23:46:32,924 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:47:10,647 | INFO     | 📂 Загружено 1 категорий из data\server_info.json
+2026-10-09 23:47:14,453 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:48:28,115 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:48:36,175 | ERROR    | data\server_info.json должен быть словарём верхнего уровня
+2026-10-09 23:50:20,382 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:50:25,312 | ERROR    | ❌ Ошибка парсинга JSON в data\server_info.json
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 45, in load_categories_from_file
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ':' delimiter: line 2 column 30 (char 31)
+2026-10-09 23:50:42,988 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:51:04,247 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:51:09,102 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:51:18,072 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:52:15,358 | ERROR    | ❌ Ошибка парсинга JSON в data\server_info.json
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 45, in load_categories_from_file
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ':' delimiter: line 2 column 29 (char 30)
+2026-10-09 23:52:37,226 | ERROR    | ❌ Ошибка парсинга JSON в data\server_info.json
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\info.py", line 45, in load_categories_from_file
+    data = json.load(f)
+           ^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ':' delimiter: line 2 column 30 (char 31)
+2026-10-09 23:53:11,879 | INFO     | 📂 Загружено 1 категорий из data\server_info.json
+2026-10-09 23:53:14,925 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:53:24,172 | WARNING  | 🛑 Запуск остановлен вручную.
+2026-10-09 23:53:34,593 | SUCCESS  | Stalzone: токен получен
+2026-10-09 23:54:56,415 | INFO     | 📂 Загружено 2 категорий из data\server_info.json
+2026-10-09 23:55:00,257 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🛡 Кланы и отделы сервера'
+2026-10-09 23:56:25,752 | INFO     | kraken_5491 (818235533602848768) выбрал категорию '🗂 Каналы Discord'
