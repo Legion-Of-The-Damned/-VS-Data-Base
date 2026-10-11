@@ -88,3 +88,55 @@
 2026-10-10 21:20:28,972 | SUCCESS  | Алерт [SEA] отправлен
 2026-10-10 23:38:28,064 | INFO     | 🚨 Новый выброс [EU]: 2026-10-10T20:37:51Z
 2026-10-10 23:38:28,944 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 00:24:28,330 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-10T21:22:53Z
+2026-10-11 00:24:28,896 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 03:14:27,648 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-11T00:12:43Z
+2026-10-11 03:14:28,398 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 03:16:28,727 | INFO     | 🚨 Новый выброс [EU]: 2026-10-11T00:16:11Z
+2026-10-11 03:16:29,274 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 06:36:27,870 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-11T03:35:23Z
+2026-10-11 06:36:28,630 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 06:54:28,160 | INFO     | 🚨 Новый выброс [EU]: 2026-10-11T03:53:41Z
+2026-10-11 06:54:28,773 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 09:48:27,677 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-11T06:48:03Z
+2026-10-11 09:48:28,147 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 10:22:27,712 | INFO     | 🚨 Новый выброс [EU]: 2026-10-11T07:20:31Z
+2026-10-11 10:22:28,398 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 13:12:27,333 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-11T10:11:13Z
+2026-10-11 13:12:27,729 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 14:14:27,862 | INFO     | 🚨 Новый выброс [EU]: 2026-10-11T11:12:41Z
+2026-10-11 14:14:28,475 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 15:54:28,170 | INFO     | 🚨 Новый выброс [SEA]: 2026-10-11T12:54:23Z
+2026-10-11 15:54:29,006 | SUCCESS  | Алерт [SEA] отправлен
+2026-10-11 17:13:38,944 | INFO     | /статус [Celestial Knight] | kraken_5491 (818235533602848768)
+2026-10-11 17:13:41,696 | INFO     | /статус [Celestial Knight] → online (2/2 online)
+2026-10-11 18:00:28,254 | INFO     | 🚨 Новый выброс [EU]: 2026-10-11T14:59:11Z
+2026-10-11 18:00:29,015 | SUCCESS  | Алерт [EU] отправлен
+2026-10-11 18:02:38,336 | ERROR    | [SEA] fetch error: HTTP 500: <html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Traceback (most recent call last):
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 283, in _fetch_region
+    data = await self.api_get(f"/{code}/emission")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 278, in api_get
+    return await asyncio.get_running_loop().run_in_executor(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\thread.py", line 59, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Kraken_5491\Documents\Void-Sentinel\cogs\emission.py", line 273, in _api_get
+    raise RuntimeError(f"HTTP {status}: {raw}")
+RuntimeError: HTTP 500: <html>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+2026-10-11 19:12:36,963 | WARNING  | 🛑 Запуск остановлен вручную.
